@@ -2,10 +2,10 @@ version: 1
 datastore:
   user: root
   password: bcitlabpw2022!
-  hostname: acit-3855-matt-kafka.westus3.cloudapp.azure.com
+  hostname: db
   port: 3306
   db: events
 events:
-  hostname: acit-3855-matt-kafka.westus3.cloudapp.azure.com
+  hostname: kafka
   port: 9092
   topic: events

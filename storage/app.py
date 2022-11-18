@@ -16,7 +16,7 @@ import logging
 import logging.config
 import datetime
 
-with open('app_conf.yaml', 'r') as f:
+with open('app_conf.yml', 'r') as f:
     app_config = yaml.safe_load(f.read())
     DB_USER = app_config['datastore']['user']
     DB_PW = app_config['datastore']['password']

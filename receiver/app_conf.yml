@@ -6,6 +6,6 @@ eventExerciseParameters:
 eventExerciseSummary:
   url: http://localhost:8090/exerciseSummary
 events:
-  hostname: acit-3855-matt-kafka.westus3.cloudapp.azure.com
+  hostname: kafka
   port: 9092
   topic: events

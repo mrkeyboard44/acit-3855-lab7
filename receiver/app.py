@@ -13,7 +13,7 @@ from pykafka import KafkaClient
 MAX_EVENTS = 10
 EVENT_FILE = 'events.json'
 
-with open('app_conf.yaml', 'r') as f:
+with open('app_conf.yml', 'r') as f:
     app_config = yaml.safe_load(f.read())
     KAFKA_HOSTNAME = app_config['events']['hostname']
     KAFKA_PORT = app_config['events']['port']
