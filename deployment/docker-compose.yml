@@ -42,6 +42,7 @@ services:
   # Names our volume
   receiver:
     build: ../receiver/
+    restart: always
     ports:
       - "8080:8080"
     depends_on:
@@ -49,6 +50,7 @@ services:
 
   storage:
     build: ../storage/
+    restart: always
     ports:
       - "8090:8090"
     depends_on:
@@ -56,6 +58,7 @@ services:
   
   processing:
     build: ../processing/
+    restart: always
     ports:
       - "8100:8100"
     depends_on:
@@ -63,6 +66,7 @@ services:
 
   audit_log:
     build: ../audit_log/
+    restart: always
     ports:
       - "8110:8110"
     depends_on:
