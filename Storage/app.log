@@ -1,0 +1,1441 @@
+2022-10-26 13:02:07,513 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 11aec6b2-5569-11ed-9522-b5b89a9296a5
+2022-10-26 13:04:58,283 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 7777ede8-5569-11ed-9522-b5b89a9296a5
+2022-10-26 13:08:06,383 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of e797869c-5569-11ed-9522-b5b89a9296a5
+2022-10-26 13:10:20,352 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 376f2742-556a-11ed-9522-b5b89a9296a5
+2022-10-26 13:11:11,979 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 563391a4-556a-11ed-9522-b5b89a9296a5
+2022-10-26 13:12:28,302 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 83b3589e-556a-11ed-9522-b5b89a9296a5
+2022-10-26 13:12:39,421 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 8a53d9bc-556a-11ed-9522-b5b89a9296a5
+2022-10-26 13:13:13,961 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 9eeaec08-556a-11ed-9522-b5b89a9296a5
+2022-10-26 13:13:46,272 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of b22eb006-556a-11ed-9522-b5b89a9296a5
+2022-10-26 13:14:31,824 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of cd554b9c-556a-11ed-9522-b5b89a9296a5
+2022-10-26 13:15:45,940 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of f9828fc2-556a-11ed-9522-b5b89a9296a5
+2022-10-26 13:16:15,986 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 0b686a2c-556b-11ed-9522-b5b89a9296a5
+2022-10-27 15:23:12,962 - basicLogger - INFO - Query for Exercise Data 2022-09-29 16:35:47.001901 returns 0 results
+2022-10-27 15:42:48,251 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of ae6c6ac4-5648-11ed-974d-f531c79e4359
+2022-10-27 15:43:28,106 - basicLogger - INFO - Query for Exercise Data 2022-09-29 16:35:47.001901 returns 1 results
+2022-10-27 15:46:29,423 - basicLogger - INFO - Query for Exercise Data 2022-09-29 16:35:47.001901 returns 1 results
+2022-10-27 15:46:30,715 - basicLogger - INFO - Query for Exercise Data 2022-09-29 16:35:47.001901 returns 1 results
+2022-10-27 15:47:08,146 - basicLogger - INFO - Query for Exercise Data 2022-09-29 16:35:47.001901 returns 1 results
+2022-10-27 15:47:13,934 - basicLogger - INFO - Query for Exercise Data 2022-09-29 16:35:47.001901 returns 1 results
+2022-10-27 15:48:06,866 - basicLogger - INFO - Query for Exercise Data 2022-09-29 16:35:47.001901 returns 1 results
+2022-10-27 15:48:11,354 - basicLogger - INFO - Query for Exercise Data 2022-09-29 16:35:47.001901 returns 1 results
+2022-10-27 15:54:56,439 - basicLogger - INFO - Query for Exercise Data 2022-09-29 16:35:47.001901 returns 1 results
+2022-10-27 15:55:12,829 - basicLogger - INFO - Query for Exercise Data 2022-09-29 16:35:47.001901 returns 1 results
+2022-10-27 15:56:50,893 - basicLogger - INFO - Query for Exercise Data 2022-09-29 16:35:47.001901 returns 1 results
+2022-10-27 20:42:29,135 - basicLogger - INFO - Query for Exercise Data 2022-09-29 16:35:47.001901 returns 1 results
+2022-10-27 21:56:59,846 - basicLogger - INFO - Query for Exercise Data 2022-09-29 16:35:47.001901 returns 1 results
+2022-10-27 21:58:17,709 - basicLogger - INFO - Query for Exercise Data 2022-09-29 16:35:47.001901 returns 1 results
+2022-10-27 21:58:22,708 - basicLogger - INFO - Query for Exercise Data 2022-09-29 16:35:47.001901 returns 1 results
+2022-10-27 21:58:47,671 - basicLogger - INFO - Query for Exercise Data 2022-09-29 16:35:47.001901 returns 1 results
+2022-10-27 21:58:52,671 - basicLogger - INFO - Query for Exercise Data 2022-09-29 16:35:47.001901 returns 1 results
+2022-10-27 21:59:49,419 - basicLogger - INFO - Query for Exercise Data 2022-09-29 16:35:47.001901 returns 1 results
+2022-10-27 21:59:54,419 - basicLogger - INFO - Query for Exercise Data 2022-09-29 16:35:47.001901 returns 1 results
+2022-10-27 22:18:35,695 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of f902033c-567f-11ed-974d-f531c79e4359
+2022-10-27 22:24:37,138 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of d06e5bfe-5680-11ed-974d-f531c79e4359
+2022-10-27 22:40:44,872 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 113f3f84-5683-11ed-974d-f531c79e4359
+2022-10-27 22:40:49,314 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 13e4f83c-5683-11ed-974d-f531c79e4359
+2022-10-27 22:40:49,718 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 1423d228-5683-11ed-974d-f531c79e4359
+2022-10-27 22:40:50,084 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 145be082-5683-11ed-974d-f531c79e4359
+2022-10-27 22:40:50,371 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 14876df6-5683-11ed-974d-f531c79e4359
+2022-10-27 22:40:56,372 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 181a9290-5683-11ed-974d-f531c79e4359
+2022-10-27 22:40:59,358 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 19e3e806-5683-11ed-974d-f531c79e4359
+2022-10-27 22:40:59,757 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 1a207870-5683-11ed-974d-f531c79e4359
+2022-10-27 22:41:00,179 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 1a600d0a-5683-11ed-974d-f531c79e4359
+2022-10-27 22:47:16,296 - basicLogger - INFO - Query for Exercise Data 2022-09-29 16:35:47.001901 returns 4 results
+2022-10-27 22:47:21,293 - basicLogger - INFO - Query for Exercise Data 2022-09-29 16:35:47.001901 returns 4 results
+2022-10-27 22:48:03,580 - basicLogger - INFO - Query for Exercise Data 2022-09-29 16:35:47.001901 returns 4 results
+2022-10-27 22:49:39,945 - basicLogger - INFO - Query for Exercise Data 2022-09-29 16:35:47.001901 returns 4 results
+2022-10-27 22:50:07,443 - basicLogger - INFO - Query for Exercise Data 2022-09-29 16:35:47.001901 returns 4 results
+2022-10-27 22:50:34,138 - basicLogger - INFO - Query for Exercise Data 2022-09-29 16:35:47.001901 returns 4 results
+2022-10-27 22:54:16,099 - basicLogger - INFO - Query for User Parameters 2022-09-29 16:35:47.001901 returns 5 results
+2022-10-27 22:56:14,217 - basicLogger - INFO - Query for User Parameters 2022-09-29 16:35:47.001901 returns 5 results
+2022-10-27 22:58:58,282 - basicLogger - INFO - Query for User Parameters 2022-09-29 16:35:47.001901 returns 5 results
+2022-10-27 23:00:16,465 - basicLogger - INFO - Query for User Parameters 2022-09-29 16:35:47.001901 returns 5 results
+2022-10-27 23:00:18,175 - basicLogger - INFO - Query for User Parameters 2022-09-29 16:35:47.001901 returns 5 results
+2022-10-27 23:01:23,511 - basicLogger - INFO - Query for Exercise Data 2022-09-29 16:35:47.001901 returns 4 results
+2022-10-27 23:03:53,115 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 4cb7a59e-5686-11ed-974d-f531c79e4359
+2022-10-27 23:06:13,466 - basicLogger - DEBUG - Stored event userParameters request with a trace id of a05c45ec-5686-11ed-974d-f531c79e4359
+2022-10-27 23:07:28,680 - basicLogger - DEBUG - Stored event userParameters request with a trace id of cd3028ea-5686-11ed-974d-f531c79e4359
+2022-10-27 23:07:30,377 - basicLogger - DEBUG - Stored event userParameters request with a trace id of ce368a5e-5686-11ed-974d-f531c79e4359
+2022-10-27 23:07:42,237 - basicLogger - DEBUG - Stored event userParameters request with a trace id of d5480520-5686-11ed-974d-f531c79e4359
+2022-10-27 23:07:42,555 - basicLogger - DEBUG - Stored event userParameters request with a trace id of d5787174-5686-11ed-974d-f531c79e4359
+2022-10-27 23:07:43,097 - basicLogger - DEBUG - Stored event userParameters request with a trace id of d5c8a8f6-5686-11ed-974d-f531c79e4359
+2022-10-27 23:07:43,662 - basicLogger - DEBUG - Stored event userParameters request with a trace id of d6216e64-5686-11ed-974d-f531c79e4359
+2022-10-27 23:07:44,159 - basicLogger - DEBUG - Stored event userParameters request with a trace id of d66eb58e-5686-11ed-974d-f531c79e4359
+2022-10-27 23:07:48,635 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of d9182ef0-5686-11ed-974d-f531c79e4359
+2022-10-27 23:07:50,115 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of d9f7503a-5686-11ed-974d-f531c79e4359
+2022-10-27 23:07:50,520 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of da3804d6-5686-11ed-974d-f531c79e4359
+2022-10-27 23:07:50,947 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of da7936d6-5686-11ed-974d-f531c79e4359
+2022-10-27 23:07:51,428 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of dac28a52-5686-11ed-974d-f531c79e4359
+2022-10-27 23:07:51,842 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of db01869e-5686-11ed-974d-f531c79e4359
+2022-10-27 23:08:11,482 - basicLogger - INFO - Query for User Parameters 2022-09-29 16:35:47.001901 returns 5 results
+2022-10-27 23:09:26,312 - basicLogger - INFO - Query for User Parameters 2022-09-29 16:35:47.001901 returns 5 results
+2022-10-27 23:10:55,563 - basicLogger - INFO - Query for Exercise Data 2022-09-29 16:35:47.001901 returns 6 results
+2022-10-27 23:11:00,558 - basicLogger - INFO - Query for Exercise Data 2022-09-29 16:35:47.001901 returns 6 results
+2022-10-27 23:11:05,558 - basicLogger - INFO - Query for Exercise Data 2022-09-29 16:35:47.001901 returns 6 results
+2022-10-27 23:11:15,872 - basicLogger - INFO - Query for User Parameters 2022-09-29 16:35:47.001901 returns 5 results
+2022-10-27 23:11:57,464 - basicLogger - INFO - Query for Exercise Data 2022-09-29 16:35:47.001901 returns 6 results
+2022-10-27 23:11:57,470 - basicLogger - INFO - Query for User Parameters 2022-09-29 16:35:47.001901 returns 5 results
+2022-10-27 23:12:34,756 - basicLogger - INFO - Query for Exercise Data 2022-09-29 16:35:47.001901 returns 6 results
+2022-10-27 23:12:39,757 - basicLogger - INFO - Query for Exercise Data 2022-09-29 16:35:47.001901 returns 6 results
+2022-10-27 23:12:44,755 - basicLogger - INFO - Query for Exercise Data 2022-09-29 16:35:47.001901 returns 6 results
+2022-10-27 23:14:13,371 - basicLogger - INFO - Query for Exercise Data 2022-09-29 16:35:47.001901 returns 6 results
+2022-10-27 23:14:18,358 - basicLogger - INFO - Query for Exercise Data 2022-09-29 16:35:47.001901 returns 6 results
+2022-10-27 23:14:55,250 - basicLogger - INFO - Query for Exercise Data 2022-09-29 16:35:47.001901 returns 6 results
+2022-10-27 23:14:55,256 - basicLogger - INFO - Query for User Parameters 2022-09-29 16:35:47.001901 returns 5 results
+2022-10-27 23:18:08,458 - basicLogger - INFO - Query for Exercise Data 2022-09-29 16:35:47.001901 returns 6 results
+2022-10-27 23:18:08,464 - basicLogger - INFO - Query for User Parameters 2022-09-29 16:35:47.001901 returns 5 results
+2022-10-27 23:23:31,884 - basicLogger - INFO - Query for Exercise Data 2022-09-29 16:35:47.001901 returns 6 results
+2022-10-27 23:23:31,890 - basicLogger - INFO - Query for User Parameters 2022-09-29 16:35:47.001901 returns 5 results
+2022-10-27 23:27:53,033 - basicLogger - INFO - Query for User Parameters 2016-09-29 16:35:47.001901 returns 5 results
+2022-10-27 23:38:12,771 - basicLogger - INFO - Query for Exercise Data 2022-09-29 16:35:47.001901 returns 6 results
+2022-10-27 23:38:12,776 - basicLogger - INFO - Query for User Parameters 2022-09-29 16:35:47.001901 returns 5 results
+2022-10-27 23:51:08,999 - basicLogger - INFO - Query for Exercise Data 2022-09-29 16:35:47.001901 returns 6 results
+2022-10-27 23:51:09,005 - basicLogger - INFO - Query for User Parameters 2022-09-29 16:35:47.001901 returns 5 results
+2022-10-27 23:52:40,585 - basicLogger - INFO - Query for Exercise Data 2022-09-29 16:35:47.001901 returns 6 results
+2022-10-27 23:52:40,590 - basicLogger - INFO - Query for User Parameters 2022-09-29 16:35:47.001901 returns 5 results
+2022-10-27 23:53:15,383 - basicLogger - INFO - Query for Exercise Data 2022-10-28 23:53:15.378240 returns 0 results
+2022-10-27 23:53:15,386 - basicLogger - INFO - Query for User Parameters 2022-10-28 23:53:15.378240 returns 0 results
+2022-10-27 23:55:15,863 - basicLogger - INFO - Query for Exercise Data 2023-10-27 23:55:15.858709 returns 0 results
+2022-10-27 23:55:15,868 - basicLogger - INFO - Query for User Parameters 2023-10-27 23:55:15.858709 returns 0 results
+2022-10-27 23:55:20,863 - basicLogger - INFO - Query for Exercise Data 2023-10-27 23:55:20.859543 returns 0 results
+2022-10-27 23:55:20,867 - basicLogger - INFO - Query for User Parameters 2023-10-27 23:55:20.859543 returns 0 results
+2022-10-27 23:55:25,862 - basicLogger - INFO - Query for Exercise Data 2023-10-27 23:55:25.858548 returns 0 results
+2022-10-27 23:55:25,866 - basicLogger - INFO - Query for User Parameters 2023-10-27 23:55:25.858548 returns 0 results
+2022-10-27 23:56:04,636 - basicLogger - INFO - Query for Exercise Data 2023-02-04 23:56:04.631641 returns 0 results
+2022-10-27 23:56:04,640 - basicLogger - INFO - Query for User Parameters 2023-02-04 23:56:04.631641 returns 0 results
+2022-10-27 23:56:09,636 - basicLogger - INFO - Query for Exercise Data 2023-02-04 23:56:09.632238 returns 0 results
+2022-10-27 23:56:09,641 - basicLogger - INFO - Query for User Parameters 2023-02-04 23:56:09.632238 returns 0 results
+2022-10-27 23:56:17,580 - basicLogger - INFO - Query for Exercise Data 2021-10-27 23:56:17.575232 returns 6 results
+2022-10-27 23:56:17,586 - basicLogger - INFO - Query for User Parameters 2021-10-27 23:56:17.575232 returns 5 results
+2022-10-28 00:07:21,930 - basicLogger - INFO - Query for Exercise Data 2022-07-20 00:07:21.924498 returns 6 results
+2022-10-28 00:07:21,936 - basicLogger - INFO - Query for User Parameters 2022-07-20 00:07:21.924498 returns 5 results
+2022-10-28 00:08:09,288 - basicLogger - INFO - Query for Exercise Data 2022-07-20 00:08:09.282478 returns 6 results
+2022-10-28 00:08:09,293 - basicLogger - INFO - Query for User Parameters 2022-07-20 00:08:09.282478 returns 5 results
+2022-10-28 00:09:00,268 - basicLogger - INFO - Query for Exercise Data 2022-07-20 00:09:00.263301 returns 6 results
+2022-10-28 00:09:00,273 - basicLogger - INFO - Query for User Parameters 2022-07-20 00:09:00.263301 returns 5 results
+2022-10-28 00:09:58,577 - basicLogger - INFO - Query for Exercise Data 2022-07-20 00:09:58.572289 returns 6 results
+2022-10-28 00:09:58,582 - basicLogger - INFO - Query for User Parameters 2022-07-20 00:09:58.572289 returns 5 results
+2022-10-28 00:10:34,887 - basicLogger - INFO - Query for Exercise Data 2022-07-20 00:10:34.881211 returns 6 results
+2022-10-28 00:10:34,892 - basicLogger - INFO - Query for User Parameters 2022-07-20 00:10:34.881211 returns 5 results
+2022-10-28 00:21:59,652 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 3619e53a-5691-11ed-974d-f531c79e4359
+2022-10-28 00:22:00,426 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 3691be2a-5691-11ed-974d-f531c79e4359
+2022-10-28 00:22:00,748 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 36c17642-5691-11ed-974d-f531c79e4359
+2022-10-28 00:22:01,097 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 36f76fb8-5691-11ed-974d-f531c79e4359
+2022-10-28 00:22:01,485 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 3733582a-5691-11ed-974d-f531c79e4359
+2022-10-28 00:22:01,918 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 3773c806-5691-11ed-974d-f531c79e4359
+2022-10-28 00:23:35,222 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 6f0f34da-5691-11ed-974d-f531c79e4359
+2022-10-28 00:23:41,063 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 728d971e-5691-11ed-974d-f531c79e4359
+2022-10-28 00:23:42,720 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 7387f8bc-5691-11ed-974d-f531c79e4359
+2022-10-28 00:23:43,193 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 73cf293a-5691-11ed-974d-f531c79e4359
+2022-10-28 00:23:43,541 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 7407ccd6-5691-11ed-974d-f531c79e4359
+2022-10-28 00:38:53,924 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 92a6d5ea-5693-11ed-974d-f531c79e4359
+2022-10-28 00:38:54,731 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 93248814-5693-11ed-974d-f531c79e4359
+2022-10-28 00:38:55,177 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 93688078-5693-11ed-974d-f531c79e4359
+2022-10-28 00:38:55,558 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 93a2a96a-5693-11ed-974d-f531c79e4359
+2022-10-28 00:38:55,968 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 93e24f02-5693-11ed-974d-f531c79e4359
+2022-10-28 00:38:56,329 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 94181e16-5693-11ed-974d-f531c79e4359
+2022-10-28 00:41:32,544 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of f132b584-5693-11ed-974d-f531c79e4359
+2022-10-28 00:41:34,372 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of f24a19e4-5693-11ed-974d-f531c79e4359
+2022-10-28 00:41:34,827 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of f28e59b0-5693-11ed-974d-f531c79e4359
+2022-10-28 00:41:35,225 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of f2cdd07c-5693-11ed-974d-f531c79e4359
+2022-10-28 00:41:35,623 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of f30abcb2-5693-11ed-974d-f531c79e4359
+2022-10-28 00:44:54,352 - basicLogger - INFO - Query for Exercise Data 2022-07-20 00:44:54.343692 returns 5 results
+2022-10-28 00:44:54,361 - basicLogger - INFO - Query for User Parameters 2022-07-20 00:44:54.343692 returns 6 results
+2022-10-28 00:45:44,202 - basicLogger - INFO - Query for Exercise Data 2022-07-20 00:45:44.196380 returns 5 results
+2022-10-28 00:45:44,207 - basicLogger - INFO - Query for User Parameters 2022-07-20 00:45:44.196380 returns 6 results
+2022-10-28 00:46:03,091 - basicLogger - INFO - Query for Exercise Data 2022-07-20 00:46:03.085416 returns 5 results
+2022-10-28 00:46:03,097 - basicLogger - INFO - Query for User Parameters 2022-07-20 00:46:03.085416 returns 6 results
+2022-10-28 00:46:19,566 - basicLogger - INFO - Query for Exercise Data 2022-07-20 00:46:19.560677 returns 5 results
+2022-10-28 00:46:19,571 - basicLogger - INFO - Query for User Parameters 2022-07-20 00:46:19.560677 returns 6 results
+2022-10-28 01:02:39,671 - basicLogger - INFO - Query for Exercise Data 2022-07-20 01:02:39.664480 returns 5 results
+2022-10-28 01:02:39,678 - basicLogger - INFO - Query for User Parameters 2022-07-20 01:02:39.664480 returns 6 results
+2022-10-28 01:04:16,616 - basicLogger - INFO - Query for Exercise Data 2022-07-20 01:04:16.610980 returns 5 results
+2022-10-28 01:04:16,622 - basicLogger - INFO - Query for User Parameters 2022-07-20 01:04:16.610980 returns 6 results
+2022-10-28 01:09:35,810 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of dc7ff648-5697-11ed-974d-f531c79e4359
+2022-10-28 01:09:36,568 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of dcf4fd94-5697-11ed-974d-f531c79e4359
+2022-10-28 01:09:37,062 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of dd40a050-5697-11ed-974d-f531c79e4359
+2022-10-28 01:09:37,490 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of dd82a694-5697-11ed-974d-f531c79e4359
+2022-10-28 01:09:37,913 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of ddc2b810-5697-11ed-974d-f531c79e4359
+2022-10-28 01:14:46,305 - basicLogger - INFO - Query for Exercise Data 2022-07-20 01:14:46.296718 returns 5 results
+2022-10-28 01:14:46,314 - basicLogger - INFO - Query for User Parameters 2022-07-20 01:14:46.296718 returns 0 results
+2022-10-28 01:14:51,301 - basicLogger - INFO - Query for Exercise Data 2022-07-20 01:14:51.297458 returns 5 results
+2022-10-28 01:14:51,306 - basicLogger - INFO - Query for User Parameters 2022-07-20 01:14:51.297458 returns 0 results
+2022-10-28 01:16:03,194 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of c367afe2-5698-11ed-974d-f531c79e4359
+2022-10-28 01:16:04,123 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of c3f4e42a-5698-11ed-974d-f531c79e4359
+2022-10-28 01:16:04,775 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of c458da02-5698-11ed-974d-f531c79e4359
+2022-10-28 01:16:05,151 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of c49105bc-5698-11ed-974d-f531c79e4359
+2022-10-28 01:16:05,551 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of c4ceafb6-5698-11ed-974d-f531c79e4359
+2022-10-28 01:16:07,079 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of c5b98f9a-5698-11ed-974d-f531c79e4359
+2022-10-28 01:16:25,710 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of d0d38aca-5698-11ed-974d-f531c79e4359
+2022-10-28 01:16:26,403 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of d13d2688-5698-11ed-974d-f531c79e4359
+2022-10-28 01:16:27,090 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of d1a5a050-5698-11ed-974d-f531c79e4359
+2022-10-28 01:16:30,578 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of d3ba208c-5698-11ed-974d-f531c79e4359
+2022-10-28 01:17:10,735 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of eba994ac-5698-11ed-974d-f531c79e4359
+2022-10-28 01:17:11,185 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of ebf0b24c-5698-11ed-974d-f531c79e4359
+2022-10-28 01:17:11,598 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of ec2e8824-5698-11ed-974d-f531c79e4359
+2022-10-28 01:17:12,038 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of ec707432-5698-11ed-974d-f531c79e4359
+2022-10-28 01:17:12,449 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of ecb06164-5698-11ed-974d-f531c79e4359
+2022-10-28 01:18:25,897 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 18774c22-5699-11ed-974d-f531c79e4359
+2022-10-28 01:18:33,713 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 1d1fff58-5699-11ed-974d-f531c79e4359
+2022-10-28 01:18:34,196 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 1d6b4bf2-5699-11ed-974d-f531c79e4359
+2022-10-28 01:18:34,831 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 1dc8a2ac-5699-11ed-974d-f531c79e4359
+2022-10-28 01:18:35,374 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 1e1d6b02-5699-11ed-974d-f531c79e4359
+2022-10-28 01:18:48,686 - basicLogger - INFO - Query for Exercise Data 2022-07-20 01:18:48.680007 returns 15 results
+2022-10-28 01:18:48,692 - basicLogger - INFO - Query for User Parameters 2022-07-20 01:18:48.680007 returns 5 results
+2022-10-28 01:20:49,014 - basicLogger - INFO - Query for Exercise Data 2022-07-20 01:20:49.008510 returns 15 results
+2022-10-28 01:20:49,020 - basicLogger - INFO - Query for User Parameters 2022-07-20 01:20:49.008510 returns 5 results
+2022-10-28 01:22:33,411 - basicLogger - INFO - Query for Exercise Data 2022-07-20 01:22:33.406405 returns 15 results
+2022-10-28 01:22:33,416 - basicLogger - INFO - Query for User Parameters 2022-07-20 01:22:33.406405 returns 5 results
+2022-10-28 01:23:04,853 - basicLogger - INFO - Query for Exercise Data 2022-07-20 01:23:04.847828 returns 15 results
+2022-10-28 01:23:04,858 - basicLogger - INFO - Query for User Parameters 2022-07-20 01:23:04.847828 returns 5 results
+2022-10-28 01:23:09,857 - basicLogger - INFO - Query for Exercise Data 2022-07-20 01:23:09.849471 returns 15 results
+2022-10-28 01:23:09,865 - basicLogger - INFO - Query for User Parameters 2022-07-20 01:23:09.849471 returns 5 results
+2022-10-28 01:24:00,606 - basicLogger - INFO - Query for Exercise Data 2022-07-20 01:24:00.601396 returns 15 results
+2022-10-28 01:24:00,612 - basicLogger - INFO - Query for User Parameters 2022-07-20 01:24:00.601396 returns 5 results
+2022-10-28 01:24:20,920 - basicLogger - INFO - Query for Exercise Data 2022-07-20 01:24:20.915145 returns 15 results
+2022-10-28 01:24:20,925 - basicLogger - INFO - Query for User Parameters 2022-07-20 01:24:20.915145 returns 5 results
+2022-10-28 01:24:51,605 - basicLogger - INFO - Query for Exercise Data 2022-07-20 01:24:51.598979 returns 15 results
+2022-10-28 01:24:51,611 - basicLogger - INFO - Query for User Parameters 2022-07-20 01:24:51.598979 returns 5 results
+2022-10-28 01:25:08,820 - basicLogger - INFO - Query for Exercise Data 2022-07-20 01:25:08.815222 returns 15 results
+2022-10-28 01:25:08,826 - basicLogger - INFO - Query for User Parameters 2022-07-20 01:25:08.815222 returns 5 results
+2022-10-28 01:25:13,820 - basicLogger - INFO - Query for Exercise Data 2022-07-20 01:25:13.815919 returns 15 results
+2022-10-28 01:25:13,826 - basicLogger - INFO - Query for User Parameters 2022-07-20 01:25:13.815919 returns 5 results
+2022-10-28 01:25:42,985 - basicLogger - INFO - Query for Exercise Data 2022-07-20 01:25:42.979350 returns 15 results
+2022-10-28 01:25:42,990 - basicLogger - INFO - Query for User Parameters 2022-07-20 01:25:42.979350 returns 5 results
+2022-10-28 01:26:27,648 - basicLogger - INFO - Query for Exercise Data 2022-07-20 01:26:27.642795 returns 15 results
+2022-10-28 01:26:27,654 - basicLogger - INFO - Query for User Parameters 2022-07-20 01:26:27.642795 returns 5 results
+2022-10-28 01:27:01,871 - basicLogger - INFO - Query for Exercise Data 2022-07-20 01:27:01.865588 returns 15 results
+2022-10-28 01:27:01,877 - basicLogger - INFO - Query for User Parameters 2022-07-20 01:27:01.865588 returns 5 results
+2022-10-28 01:27:44,371 - basicLogger - INFO - Query for Exercise Data 2022-07-20 01:27:44.365570 returns 15 results
+2022-10-28 01:27:44,376 - basicLogger - INFO - Query for User Parameters 2022-07-20 01:27:44.365570 returns 5 results
+2022-10-28 01:36:10,596 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 9312a1fa-569b-11ed-974d-f531c79e4359
+2022-10-28 01:36:15,314 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 95e1c73a-569b-11ed-974d-f531c79e4359
+2022-10-28 01:36:15,683 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 961c1138-569b-11ed-974d-f531c79e4359
+2022-10-28 01:36:16,080 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 9657d75e-569b-11ed-974d-f531c79e4359
+2022-10-28 01:36:16,698 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 96b5b608-569b-11ed-974d-f531c79e4359
+2022-10-28 01:36:21,917 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 99d2a954-569b-11ed-974d-f531c79e4359
+2022-10-28 01:36:22,524 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 9a2e63fc-569b-11ed-974d-f531c79e4359
+2022-10-28 01:36:22,928 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 9a6d8b72-569b-11ed-974d-f531c79e4359
+2022-10-28 01:36:23,300 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 9aa7a69a-569b-11ed-974d-f531c79e4359
+2022-10-28 01:36:23,731 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 9ae59ea0-569b-11ed-974d-f531c79e4359
+2022-10-28 01:42:51,785 - basicLogger - INFO - Query for Exercise Data 2022-07-20 01:42:51.775290 returns 5 results
+2022-10-28 01:42:51,792 - basicLogger - INFO - Query for User Parameters 2022-07-20 01:42:51.775290 returns 5 results
+2022-10-28 01:43:39,884 - basicLogger - INFO - Query for Exercise Data 2022-07-20 01:43:39.878225 returns 5 results
+2022-10-28 01:43:39,891 - basicLogger - INFO - Query for User Parameters 2022-07-20 01:43:39.878225 returns 5 results
+2022-10-28 01:46:22,883 - basicLogger - INFO - Query for Exercise Data 2022-07-20 01:46:22.877869 returns 5 results
+2022-10-28 01:46:22,889 - basicLogger - INFO - Query for User Parameters 2022-07-20 01:46:22.877869 returns 5 results
+2022-10-28 01:46:59,923 - basicLogger - INFO - Query for Exercise Data 2022-07-20 01:46:59.918320 returns 5 results
+2022-10-28 01:46:59,928 - basicLogger - INFO - Query for User Parameters 2022-07-20 01:46:59.918320 returns 5 results
+2022-10-28 01:47:04,924 - basicLogger - INFO - Query for Exercise Data 2022-07-20 01:47:04.919435 returns 5 results
+2022-10-28 01:47:04,930 - basicLogger - INFO - Query for User Parameters 2022-07-20 01:47:04.919435 returns 5 results
+2022-10-28 01:48:41,620 - basicLogger - INFO - Query for Exercise Data 2022-07-20 01:48:41.615809 returns 5 results
+2022-10-28 01:48:41,625 - basicLogger - INFO - Query for User Parameters 2022-07-20 01:48:41.615809 returns 5 results
+2022-10-28 01:49:13,409 - basicLogger - INFO - Query for Exercise Data 2022-07-20 01:49:13.403632 returns 5 results
+2022-10-28 01:49:13,413 - basicLogger - INFO - Query for User Parameters 2022-07-20 01:49:13.403632 returns 5 results
+2022-10-28 01:49:31,342 - basicLogger - INFO - Query for Exercise Data 2022-07-20 01:49:31.337012 returns 5 results
+2022-10-28 01:49:31,348 - basicLogger - INFO - Query for User Parameters 2022-07-20 01:49:31.337012 returns 5 results
+2022-10-28 01:49:36,341 - basicLogger - INFO - Query for Exercise Data 2022-07-20 01:49:36.337665 returns 5 results
+2022-10-28 01:49:36,345 - basicLogger - INFO - Query for User Parameters 2022-07-20 01:49:36.337665 returns 5 results
+2022-10-28 01:49:40,481 - basicLogger - INFO - Query for Exercise Data 2022-07-20 01:49:40.477300 returns 5 results
+2022-10-28 01:49:40,486 - basicLogger - INFO - Query for User Parameters 2022-07-20 01:49:40.477300 returns 5 results
+2022-10-28 01:49:41,341 - basicLogger - INFO - Query for Exercise Data 2022-07-20 01:49:41.337174 returns 5 results
+2022-10-28 01:49:41,347 - basicLogger - INFO - Query for User Parameters 2022-07-20 01:49:41.337174 returns 5 results
+2022-10-28 01:49:44,146 - basicLogger - INFO - Query for Exercise Data 2022-07-20 01:49:44.142768 returns 5 results
+2022-10-28 01:49:44,152 - basicLogger - INFO - Query for User Parameters 2022-07-20 01:49:44.142768 returns 5 results
+2022-10-28 01:49:46,340 - basicLogger - INFO - Query for Exercise Data 2022-07-20 01:49:46.337225 returns 5 results
+2022-10-28 01:49:46,345 - basicLogger - INFO - Query for User Parameters 2022-07-20 01:49:46.337225 returns 5 results
+2022-10-28 01:49:51,341 - basicLogger - INFO - Query for Exercise Data 2022-07-20 01:49:51.337112 returns 5 results
+2022-10-28 01:49:51,346 - basicLogger - INFO - Query for User Parameters 2022-07-20 01:49:51.337112 returns 5 results
+2022-10-30 17:31:16,291 - basicLogger - INFO - Query for Exercise Data 2022-07-22 17:31:16.268936 returns 5 results
+2022-10-30 17:31:16,300 - basicLogger - INFO - Query for User Parameters 2022-07-22 17:31:16.268936 returns 5 results
+2022-10-30 17:31:21,273 - basicLogger - INFO - Query for Exercise Data 2022-07-22 17:31:21.268803 returns 5 results
+2022-10-30 17:31:21,278 - basicLogger - INFO - Query for User Parameters 2022-07-22 17:31:21.268803 returns 5 results
+2022-10-30 17:31:26,273 - basicLogger - INFO - Query for Exercise Data 2022-07-22 17:31:26.268943 returns 5 results
+2022-10-30 17:31:26,278 - basicLogger - INFO - Query for User Parameters 2022-07-22 17:31:26.268943 returns 5 results
+2022-10-30 17:31:49,331 - basicLogger - INFO - Query for Exercise Data 2022-07-22 17:31:49.317822 returns 5 results
+2022-10-30 17:31:49,338 - basicLogger - INFO - Query for User Parameters 2022-07-22 17:31:49.317822 returns 5 results
+2022-10-30 17:46:00,874 - basicLogger - INFO - Query for Exercise Data 2022-07-22 17:46:00.859990 returns 5 results
+2022-10-30 17:46:53,170 - basicLogger - INFO - Query for Exercise Data 2022-07-22 17:46:53.158317 returns 5 results
+2022-10-30 17:46:53,176 - basicLogger - INFO - Query for User Parameters 2022-07-22 17:46:53.158317 returns 5 results
+2022-10-30 17:46:58,163 - basicLogger - INFO - Query for Exercise Data 2022-07-22 17:46:58.159212 returns 5 results
+2022-10-30 17:46:58,168 - basicLogger - INFO - Query for User Parameters 2022-07-22 17:46:58.159212 returns 5 results
+2022-10-30 17:47:29,814 - basicLogger - INFO - Query for Exercise Data 2022-07-22 17:47:29.810038 returns 5 results
+2022-10-30 17:47:29,819 - basicLogger - INFO - Query for User Parameters 2022-07-22 17:47:29.810038 returns 5 results
+2022-10-30 18:00:54,102 - basicLogger - INFO - Query for Exercise Data 2022-07-22 18:00:54.097627 returns 5 results
+2022-10-30 18:00:54,106 - basicLogger - INFO - Query for User Parameters 2022-07-22 18:00:54.097627 returns 5 results
+2022-10-30 18:02:33,032 - basicLogger - INFO - Query for Exercise Data 2022-07-22 18:02:33.026204 returns 5 results
+2022-10-30 18:02:33,039 - basicLogger - INFO - Query for User Parameters 2022-07-22 18:02:33.026204 returns 5 results
+2022-10-30 18:05:05,168 - basicLogger - INFO - Query for Exercise Data 2022-07-22 18:05:05.161331 returns 5 results
+2022-10-30 18:05:05,173 - basicLogger - INFO - Query for User Parameters 2022-07-22 18:05:05.161331 returns 5 results
+2022-10-30 18:07:29,479 - basicLogger - INFO - Query for Exercise Data 2022-07-22 18:07:29.472439 returns 5 results
+2022-10-30 18:07:29,485 - basicLogger - INFO - Query for User Parameters 2022-07-22 18:07:29.472439 returns 5 results
+2022-10-30 18:09:37,363 - basicLogger - INFO - Query for Exercise Data 2022-07-22 18:09:37.358608 returns 5 results
+2022-10-30 18:09:37,368 - basicLogger - INFO - Query for User Parameters 2022-07-22 18:09:37.358608 returns 5 results
+2022-10-30 18:10:31,863 - basicLogger - INFO - Query for Exercise Data 2022-07-22 18:10:31.857688 returns 5 results
+2022-10-30 18:10:31,868 - basicLogger - INFO - Query for User Parameters 2022-07-22 18:10:31.857688 returns 5 results
+2022-10-30 18:12:04,263 - basicLogger - INFO - Query for Exercise Data 2022-07-22 18:12:04.257750 returns 5 results
+2022-10-30 18:12:04,267 - basicLogger - INFO - Query for User Parameters 2022-07-22 18:12:04.257750 returns 5 results
+2022-10-30 19:57:24,809 - basicLogger - INFO - Query for Exercise Data 2022-07-22 19:57:24.803914 returns 5 results
+2022-10-30 19:57:24,815 - basicLogger - INFO - Query for User Parameters 2022-07-22 19:57:24.803914 returns 5 results
+2022-10-30 19:58:22,489 - basicLogger - INFO - Query for Exercise Data 2022-07-22 19:58:22.483118 returns 5 results
+2022-10-30 19:58:22,496 - basicLogger - INFO - Query for User Parameters 2022-07-22 19:58:22.483118 returns 5 results
+2022-10-30 20:03:24,948 - basicLogger - INFO - Query for Exercise Data 2022-07-22 20:03:24.941935 returns 5 results
+2022-10-30 20:03:24,953 - basicLogger - INFO - Query for User Parameters 2022-07-22 20:03:24.941935 returns 5 results
+2022-10-30 20:05:05,718 - basicLogger - INFO - Query for Exercise Data 2022-07-22 20:05:05.712068 returns 5 results
+2022-10-30 20:05:05,724 - basicLogger - INFO - Query for User Parameters 2022-07-22 20:05:05.712068 returns 5 results
+2022-10-30 20:11:10,695 - basicLogger - INFO - Query for Exercise Data 2022-07-22 20:11:10.688479 returns 5 results
+2022-10-30 20:11:10,700 - basicLogger - INFO - Query for User Parameters 2022-07-22 20:11:10.688479 returns 5 results
+2022-10-30 20:11:15,693 - basicLogger - INFO - Query for Exercise Data 2022-07-22 20:11:15.689552 returns 5 results
+2022-10-30 20:11:15,699 - basicLogger - INFO - Query for User Parameters 2022-07-22 20:11:15.689552 returns 5 results
+2022-10-30 20:12:08,789 - basicLogger - INFO - Query for Exercise Data 2022-07-22 20:12:08.783765 returns 5 results
+2022-10-30 20:12:08,794 - basicLogger - INFO - Query for User Parameters 2022-07-22 20:12:08.783765 returns 5 results
+2022-10-30 20:18:26,086 - basicLogger - INFO - Query for Exercise Data 2022-07-22 20:18:26.081231 returns 5 results
+2022-10-30 20:18:26,091 - basicLogger - INFO - Query for User Parameters 2022-07-22 20:18:26.081231 returns 5 results
+2022-10-30 20:22:43,009 - basicLogger - INFO - Query for Exercise Data 2022-07-22 20:22:43.003826 returns 5 results
+2022-10-30 20:22:43,015 - basicLogger - INFO - Query for User Parameters 2022-07-22 20:22:43.003826 returns 5 results
+2022-10-30 20:23:06,569 - basicLogger - INFO - Query for Exercise Data 2022-07-22 20:23:06.563702 returns 5 results
+2022-10-30 20:23:06,575 - basicLogger - INFO - Query for User Parameters 2022-07-22 20:23:06.563702 returns 5 results
+2022-10-30 20:23:11,569 - basicLogger - INFO - Query for Exercise Data 2022-07-22 20:23:11.564184 returns 5 results
+2022-10-30 20:23:11,575 - basicLogger - INFO - Query for User Parameters 2022-07-22 20:23:11.564184 returns 5 results
+2022-10-30 20:25:48,831 - basicLogger - INFO - Query for Exercise Data 2022-07-22 20:25:48.825160 returns 5 results
+2022-10-30 20:25:48,838 - basicLogger - INFO - Query for User Parameters 2022-07-22 20:25:48.825160 returns 5 results
+2022-10-30 20:27:40,744 - basicLogger - INFO - Query for Exercise Data 2022-07-22 20:27:40.739464 returns 5 results
+2022-10-30 20:27:40,749 - basicLogger - INFO - Query for User Parameters 2022-07-22 20:27:40.739464 returns 5 results
+2022-10-30 20:30:18,415 - basicLogger - INFO - Query for Exercise Data 2022-07-22 20:30:18.410332 returns 5 results
+2022-10-30 20:30:18,420 - basicLogger - INFO - Query for User Parameters 2022-07-22 20:30:18.410332 returns 5 results
+2022-10-30 20:40:28,767 - basicLogger - INFO - Query for Exercise Data 2022-07-22 20:40:28.761847 returns 5 results
+2022-10-30 20:40:28,774 - basicLogger - INFO - Query for User Parameters 2022-07-22 20:40:28.761847 returns 5 results
+2022-10-30 20:41:19,704 - basicLogger - INFO - Query for Exercise Data 2022-07-22 20:41:19.698900 returns 5 results
+2022-10-30 20:41:19,709 - basicLogger - INFO - Query for User Parameters 2022-07-22 20:41:19.698900 returns 5 results
+2022-10-30 20:42:07,062 - basicLogger - INFO - Query for Exercise Data 2022-07-22 20:42:07.057098 returns 5 results
+2022-10-30 20:42:07,067 - basicLogger - INFO - Query for User Parameters 2022-07-22 20:42:07.057098 returns 5 results
+2022-10-30 20:57:47,477 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:42:07.070414 returns 0 results
+2022-10-30 20:57:47,482 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:42:07.070414 returns 0 results
+2022-10-30 20:59:36,462 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:42:07.070414 returns 0 results
+2022-10-30 20:59:36,466 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:42:07.070414 returns 0 results
+2022-10-30 21:02:34,399 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:42:07.070414 returns 0 results
+2022-10-30 21:02:34,405 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:42:07.070414 returns 0 results
+2022-10-30 21:08:59,280 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 21:08:59,285 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 21:09:04,278 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 21:09:04,283 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 21:09:54,682 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 21:09:54,687 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 21:09:59,674 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 21:09:59,679 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 21:27:21,086 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 21:27:21,091 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 21:28:42,628 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 21:28:42,633 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 21:29:19,767 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 21:29:19,773 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 21:29:45,449 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 21:29:45,454 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 21:30:34,630 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 21:30:34,636 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 21:57:09,630 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 21:57:09,635 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 21:57:14,622 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 21:57:14,627 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 21:57:19,621 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 21:57:19,626 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 21:57:24,620 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 21:57:24,625 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 21:57:29,622 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 21:57:29,628 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 21:57:34,629 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 21:57:34,634 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 21:57:39,630 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 21:57:39,635 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 21:57:44,629 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 21:57:44,633 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 21:57:49,629 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 21:57:49,633 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 21:57:54,629 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 21:57:54,634 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 21:57:59,629 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 21:57:59,634 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 21:58:04,628 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 21:58:04,633 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 21:59:03,730 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 21:59:03,735 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 21:59:08,723 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 21:59:08,727 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 21:59:13,722 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 21:59:13,726 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:01:52,404 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:01:52,408 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:01:57,409 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:01:57,415 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:02:02,408 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:02:02,412 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:02:07,407 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:02:07,410 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:06:44,521 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:06:44,525 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:06:49,525 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:06:49,529 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:08:37,322 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:08:37,328 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:08:42,318 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:08:42,322 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:08:47,317 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:08:47,321 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:08:52,325 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:08:52,329 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:09:40,522 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:09:40,528 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:11:11,317 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:11:11,323 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:11:16,309 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:11:16,315 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:11:22,978 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:11:22,982 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:15:44,646 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:15:44,651 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:15:49,652 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:15:49,656 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:17:19,278 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:17:19,283 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:21:08,050 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:21:08,056 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:21:13,054 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:21:13,059 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:21:18,054 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:21:18,059 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:21:23,047 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:21:23,052 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:21:28,046 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:21:28,050 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:21:33,047 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:21:33,053 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:21:38,047 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:21:38,053 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:21:43,046 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:21:43,051 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:21:48,047 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:21:48,053 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:21:53,045 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:21:53,050 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:21:58,053 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:21:58,058 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:22:03,046 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:22:03,051 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:22:11,981 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:22:11,985 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:22:16,960 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:22:16,964 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:22:21,952 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:22:21,961 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:22:26,955 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:22:26,959 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:22:31,951 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:22:31,956 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:22:36,950 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:22:36,955 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:22:41,958 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:22:41,963 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:22:46,950 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:22:46,955 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:22:51,958 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:22:51,964 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:22:56,951 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:22:56,955 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:23:01,959 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:23:01,965 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:23:06,952 - basicLogger - INFO - Query for Exercise Data 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:23:06,957 - basicLogger - INFO - Query for User Parameters 2022-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:24:32,490 - basicLogger - INFO - Query for Exercise Data 2021-10-30 20:12:08.795698 returns 5 results
+2022-10-30 22:24:32,497 - basicLogger - INFO - Query for User Parameters 2021-10-30 20:12:08.795698 returns 5 results
+2022-10-30 22:24:37,504 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:24:32.501203 returns 0 results
+2022-10-30 22:24:37,509 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:24:32.501203 returns 0 results
+2022-10-30 22:24:42,481 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:24:32.501203 returns 0 results
+2022-10-30 22:24:42,486 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:24:32.501203 returns 0 results
+2022-10-30 22:24:47,480 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:24:32.501203 returns 0 results
+2022-10-30 22:24:47,485 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:24:32.501203 returns 0 results
+2022-10-30 22:24:52,489 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:24:32.501203 returns 0 results
+2022-10-30 22:24:52,494 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:24:32.501203 returns 0 results
+2022-10-30 22:24:57,488 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:24:32.501203 returns 0 results
+2022-10-30 22:24:57,493 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:24:32.501203 returns 0 results
+2022-10-30 22:27:23,734 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:24:32.501203 returns 0 results
+2022-10-30 22:27:23,739 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:24:32.501203 returns 0 results
+2022-10-30 22:27:28,738 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:24:32.501203 returns 0 results
+2022-10-30 22:27:28,743 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:24:32.501203 returns 0 results
+2022-10-30 22:28:02,646 - basicLogger - INFO - Query for Exercise Data 1980-10-30 20:12:08.795698 returns 5 results
+2022-10-30 22:28:02,652 - basicLogger - INFO - Query for User Parameters 1980-10-30 20:12:08.795698 returns 5 results
+2022-10-30 22:28:07,638 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:28:02.654907 returns 0 results
+2022-10-30 22:28:07,662 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:28:02.654907 returns 0 results
+2022-10-30 22:28:12,637 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:28:02.654907 returns 0 results
+2022-10-30 22:28:12,642 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:28:02.654907 returns 0 results
+2022-10-30 22:29:16,874 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:28:02.654907 returns 0 results
+2022-10-30 22:29:16,878 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:28:02.654907 returns 0 results
+2022-10-30 22:29:21,859 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:28:02.654907 returns 0 results
+2022-10-30 22:29:21,864 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:28:02.654907 returns 0 results
+2022-10-30 22:29:26,859 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:28:02.654907 returns 0 results
+2022-10-30 22:29:26,864 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:28:02.654907 returns 0 results
+2022-10-30 22:32:03,801 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:28:02.654907 returns 0 results
+2022-10-30 22:32:03,807 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:28:02.654907 returns 0 results
+2022-10-30 22:32:08,787 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:28:02.654907 returns 0 results
+2022-10-30 22:32:08,795 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:28:02.654907 returns 0 results
+2022-10-30 22:32:13,786 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:28:02.654907 returns 0 results
+2022-10-30 22:32:13,790 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:28:02.654907 returns 0 results
+2022-10-30 22:32:21,183 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:28:02.654907 returns 0 results
+2022-10-30 22:32:21,187 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:28:02.654907 returns 0 results
+2022-10-30 22:32:26,170 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:28:02.654907 returns 0 results
+2022-10-30 22:32:26,173 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:28:02.654907 returns 0 results
+2022-10-30 22:32:31,163 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:28:02.654907 returns 0 results
+2022-10-30 22:32:31,169 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:28:02.654907 returns 0 results
+2022-10-30 22:32:36,162 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:28:02.654907 returns 0 results
+2022-10-30 22:32:36,167 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:28:02.654907 returns 0 results
+2022-10-30 22:32:41,162 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:28:02.654907 returns 0 results
+2022-10-30 22:32:41,166 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:28:02.654907 returns 0 results
+2022-10-30 22:32:46,162 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:28:02.654907 returns 0 results
+2022-10-30 22:32:46,167 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:28:02.654907 returns 0 results
+2022-10-30 22:32:51,162 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:28:02.654907 returns 0 results
+2022-10-30 22:32:51,167 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:28:02.654907 returns 0 results
+2022-10-30 22:32:56,161 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:28:02.654907 returns 0 results
+2022-10-30 22:32:56,165 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:28:02.654907 returns 0 results
+2022-10-30 22:33:01,162 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:28:02.654907 returns 0 results
+2022-10-30 22:33:01,166 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:28:02.654907 returns 0 results
+2022-10-30 22:33:06,162 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:28:02.654907 returns 0 results
+2022-10-30 22:33:06,167 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:28:02.654907 returns 0 results
+2022-10-30 22:33:11,168 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:28:02.654907 returns 0 results
+2022-10-30 22:33:11,173 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:28:02.654907 returns 0 results
+2022-10-30 22:33:16,171 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:28:02.654907 returns 0 results
+2022-10-30 22:33:16,176 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:28:02.654907 returns 0 results
+2022-10-30 22:33:21,162 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:28:02.654907 returns 0 results
+2022-10-30 22:33:21,167 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:28:02.654907 returns 0 results
+2022-10-30 22:33:26,162 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:28:02.654907 returns 0 results
+2022-10-30 22:33:26,167 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:28:02.654907 returns 0 results
+2022-10-30 22:33:31,174 - basicLogger - INFO - Query for Exercise Data 1980-10-30 20:12:08.795698 returns 5 results
+2022-10-30 22:33:31,178 - basicLogger - INFO - Query for User Parameters 1980-10-30 20:12:08.795698 returns 5 results
+2022-10-30 22:33:36,162 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:33:31.180607 returns 0 results
+2022-10-30 22:33:36,167 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:33:31.180607 returns 0 results
+2022-10-30 22:33:41,163 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:33:31.180607 returns 0 results
+2022-10-30 22:33:41,168 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:33:31.180607 returns 0 results
+2022-10-30 22:33:46,169 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:33:31.180607 returns 0 results
+2022-10-30 22:33:46,174 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:33:31.180607 returns 0 results
+2022-10-30 22:33:51,172 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:33:31.180607 returns 0 results
+2022-10-30 22:33:51,178 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:33:31.180607 returns 0 results
+2022-10-30 22:33:56,169 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:33:31.180607 returns 0 results
+2022-10-30 22:33:56,175 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:33:31.180607 returns 0 results
+2022-10-30 22:34:01,169 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:33:31.180607 returns 0 results
+2022-10-30 22:34:01,174 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:33:31.180607 returns 0 results
+2022-10-30 22:34:06,162 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:33:31.180607 returns 0 results
+2022-10-30 22:34:06,168 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:33:31.180607 returns 0 results
+2022-10-30 22:34:11,169 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:33:31.180607 returns 0 results
+2022-10-30 22:34:11,175 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:33:31.180607 returns 0 results
+2022-10-30 22:34:16,170 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:33:31.180607 returns 0 results
+2022-10-30 22:34:16,175 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:33:31.180607 returns 0 results
+2022-10-30 22:34:21,162 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:33:31.180607 returns 0 results
+2022-10-30 22:34:21,167 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:33:31.180607 returns 0 results
+2022-10-30 22:34:31,171 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:33:31.180607 returns 0 results
+2022-10-30 22:34:31,176 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:33:31.180607 returns 0 results
+2022-10-30 22:34:36,169 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:33:31.180607 returns 0 results
+2022-10-30 22:34:36,175 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:33:31.180607 returns 0 results
+2022-10-30 22:34:41,170 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:33:31.180607 returns 0 results
+2022-10-30 22:34:41,176 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:33:31.180607 returns 0 results
+2022-10-30 22:34:46,170 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:33:31.180607 returns 0 results
+2022-10-30 22:34:46,175 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:33:31.180607 returns 0 results
+2022-10-30 22:34:51,164 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:33:31.180607 returns 0 results
+2022-10-30 22:34:51,172 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:33:31.180607 returns 0 results
+2022-10-30 22:34:56,161 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:33:31.180607 returns 0 results
+2022-10-30 22:34:56,166 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:33:31.180607 returns 0 results
+2022-10-30 22:35:01,165 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:33:31.180607 returns 0 results
+2022-10-30 22:35:01,170 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:33:31.180607 returns 0 results
+2022-10-30 22:35:06,179 - basicLogger - INFO - Query for Exercise Data 1980-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:35:06,184 - basicLogger - INFO - Query for User Parameters 1980-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:35:11,162 - basicLogger - INFO - Query for Exercise Data 1980-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:35:11,167 - basicLogger - INFO - Query for User Parameters 1980-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:35:16,161 - basicLogger - INFO - Query for Exercise Data 1980-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:35:16,166 - basicLogger - INFO - Query for User Parameters 1980-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:35:21,169 - basicLogger - INFO - Query for Exercise Data 1980-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:35:21,173 - basicLogger - INFO - Query for User Parameters 1980-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:35:26,170 - basicLogger - INFO - Query for Exercise Data 1980-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:35:26,174 - basicLogger - INFO - Query for User Parameters 1980-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:35:31,177 - basicLogger - INFO - Query for Exercise Data 1980-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:35:31,183 - basicLogger - INFO - Query for User Parameters 1980-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:35:36,163 - basicLogger - INFO - Query for Exercise Data 1980-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:35:36,168 - basicLogger - INFO - Query for User Parameters 1980-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:35:41,162 - basicLogger - INFO - Query for Exercise Data 1980-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:35:41,166 - basicLogger - INFO - Query for User Parameters 1980-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:35:46,162 - basicLogger - INFO - Query for Exercise Data 1980-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:35:46,166 - basicLogger - INFO - Query for User Parameters 1980-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:35:51,162 - basicLogger - INFO - Query for Exercise Data 1980-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:35:51,165 - basicLogger - INFO - Query for User Parameters 1980-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:35:56,170 - basicLogger - INFO - Query for Exercise Data 1980-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:35:56,175 - basicLogger - INFO - Query for User Parameters 1980-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:36:01,169 - basicLogger - INFO - Query for Exercise Data 1980-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:36:01,173 - basicLogger - INFO - Query for User Parameters 1980-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:36:06,161 - basicLogger - INFO - Query for Exercise Data 1980-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:36:06,165 - basicLogger - INFO - Query for User Parameters 1980-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:36:11,172 - basicLogger - INFO - Query for Exercise Data 1980-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:36:11,178 - basicLogger - INFO - Query for User Parameters 1980-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:36:16,162 - basicLogger - INFO - Query for Exercise Data 1980-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:36:16,167 - basicLogger - INFO - Query for User Parameters 1980-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:36:21,174 - basicLogger - INFO - Query for Exercise Data 1980-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:36:21,180 - basicLogger - INFO - Query for User Parameters 1980-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:36:26,162 - basicLogger - INFO - Query for Exercise Data 1980-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:36:26,168 - basicLogger - INFO - Query for User Parameters 1980-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:36:31,161 - basicLogger - INFO - Query for Exercise Data 1980-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:36:31,166 - basicLogger - INFO - Query for User Parameters 1980-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:38:34,975 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 4310559a-58de-11ed-be91-97742393551a
+2022-10-30 22:38:36,164 - basicLogger - INFO - Query for Exercise Data 1980-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:38:36,170 - basicLogger - INFO - Query for User Parameters 1980-10-30 20:12:08.795698 returns 1 results
+2022-10-30 22:38:38,777 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 4554c39a-58de-11ed-be91-97742393551a
+2022-10-30 22:38:39,084 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 4586a6a8-58de-11ed-be91-97742393551a
+2022-10-30 22:38:39,475 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 45c0d648-58de-11ed-be91-97742393551a
+2022-10-30 22:38:39,654 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 45dc272c-58de-11ed-be91-97742393551a
+2022-10-30 22:38:39,821 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 45f70b96-58de-11ed-be91-97742393551a
+2022-10-30 22:38:39,983 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 460d398e-58de-11ed-be91-97742393551a
+2022-10-30 22:38:40,110 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 46232bcc-58de-11ed-be91-97742393551a
+2022-10-30 22:38:41,162 - basicLogger - INFO - Query for Exercise Data 1980-10-30 20:12:08.795698 returns 0 results
+2022-10-30 22:38:41,167 - basicLogger - INFO - Query for User Parameters 1980-10-30 20:12:08.795698 returns 8 results
+2022-10-30 22:38:41,881 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 47302196-58de-11ed-be91-97742393551a
+2022-10-30 22:38:42,211 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 4760ccc4-58de-11ed-be91-97742393551a
+2022-10-30 22:38:42,457 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 47895b6c-58de-11ed-be91-97742393551a
+2022-10-30 22:38:42,609 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 47a051be-58de-11ed-be91-97742393551a
+2022-10-30 22:38:42,889 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 47c8434a-58de-11ed-be91-97742393551a
+2022-10-30 22:38:42,981 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 47d933b2-58de-11ed-be91-97742393551a
+2022-10-30 22:38:43,201 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 47f87ab0-58de-11ed-be91-97742393551a
+2022-10-30 22:38:43,405 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 48180ee8-58de-11ed-be91-97742393551a
+2022-10-30 22:38:43,690 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 48429c6c-58de-11ed-be91-97742393551a
+2022-10-30 22:38:43,878 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 485f8e6c-58de-11ed-be91-97742393551a
+2022-10-30 22:38:46,162 - basicLogger - INFO - Query for Exercise Data 1980-10-30 20:12:08.795698 returns 10 results
+2022-10-30 22:38:46,167 - basicLogger - INFO - Query for User Parameters 1980-10-30 20:12:08.795698 returns 8 results
+2022-10-30 22:38:51,162 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:38:51,167 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:38:56,161 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:38:56,165 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:39:01,162 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:39:01,167 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:39:06,164 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:39:06,169 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:39:11,169 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:39:11,174 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:39:16,161 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:39:16,174 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:39:21,167 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:39:21,172 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:39:26,166 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:39:26,172 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:39:31,162 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:39:31,166 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:39:36,161 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:39:36,166 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:39:41,162 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:39:41,166 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:39:46,162 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:39:46,167 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:39:51,170 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:39:51,174 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:39:56,169 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:39:56,174 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:40:01,169 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:40:01,174 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:40:06,169 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:40:06,174 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:40:11,170 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:40:11,174 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:40:16,163 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:40:16,169 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:40:21,169 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:40:21,174 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:40:22,657 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 833fc6f0-58de-11ed-be91-97742393551a
+2022-10-30 22:40:23,051 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 837ce8f0-58de-11ed-be91-97742393551a
+2022-10-30 22:40:23,277 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 839e8fa0-58de-11ed-be91-97742393551a
+2022-10-30 22:40:23,423 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 83b775d8-58de-11ed-be91-97742393551a
+2022-10-30 22:40:23,596 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 83cecc74-58de-11ed-be91-97742393551a
+2022-10-30 22:40:23,765 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 83ea0412-58de-11ed-be91-97742393551a
+2022-10-30 22:40:23,925 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 8404065a-58de-11ed-be91-97742393551a
+2022-10-30 22:40:24,256 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 843558d6-58de-11ed-be91-97742393551a
+2022-10-30 22:40:24,410 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 844e21b8-58de-11ed-be91-97742393551a
+2022-10-30 22:40:24,627 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 846c5610-58de-11ed-be91-97742393551a
+2022-10-30 22:40:24,822 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 848b73e2-58de-11ed-be91-97742393551a
+2022-10-30 22:40:26,173 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:40:26,179 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:40:29,541 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 875bb262-58de-11ed-be91-97742393551a
+2022-10-30 22:40:30,151 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 87b721b0-58de-11ed-be91-97742393551a
+2022-10-30 22:40:30,312 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 87d16f98-58de-11ed-be91-97742393551a
+2022-10-30 22:40:30,465 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 87e76a14-58de-11ed-be91-97742393551a
+2022-10-30 22:40:30,598 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 87fe2614-58de-11ed-be91-97742393551a
+2022-10-30 22:40:30,778 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 8816dbbe-58de-11ed-be91-97742393551a
+2022-10-30 22:40:30,907 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 882d7360-58de-11ed-be91-97742393551a
+2022-10-30 22:40:31,136 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 884f1df8-58de-11ed-be91-97742393551a
+2022-10-30 22:40:31,161 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:40:31,166 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:40:31,255 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 88627d3a-58de-11ed-be91-97742393551a
+2022-10-30 22:40:31,508 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 8886ae58-58de-11ed-be91-97742393551a
+2022-10-30 22:40:31,668 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 889ec8da-58de-11ed-be91-97742393551a
+2022-10-30 22:40:31,828 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 88b9e020-58de-11ed-be91-97742393551a
+2022-10-30 22:40:32,007 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 88d54644-58de-11ed-be91-97742393551a
+2022-10-30 22:40:32,173 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 88ed428a-58de-11ed-be91-97742393551a
+2022-10-30 22:40:36,163 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:40:36,167 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:40:41,163 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:40:41,167 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:40:46,162 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:40:46,167 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:40:51,163 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:40:51,168 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:40:56,163 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:40:56,168 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:41:01,162 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:41:01,167 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:41:06,163 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:41:06,168 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:41:11,162 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:41:11,168 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:41:16,162 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:41:16,167 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:41:21,161 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:41:21,166 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:41:26,163 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:41:26,167 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:41:31,163 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:41:31,168 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:41:36,164 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:41:36,170 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:41:41,165 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:41:41,169 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:41:46,162 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:41:46,167 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:41:51,162 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:41:51,167 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:41:56,170 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:41:56,175 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:42:01,163 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:42:01,168 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:42:06,162 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:42:06,166 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:42:11,162 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:42:11,167 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:42:16,162 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:42:16,165 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:42:21,162 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:42:21,166 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:42:26,162 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:42:26,166 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:42:31,162 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:42:31,167 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:42:36,162 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:42:36,167 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:42:41,163 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:42:41,168 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:42:46,164 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:42:46,171 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:42:51,162 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:42:51,166 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:42:56,162 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:42:56,167 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:43:01,170 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:43:01,174 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:43:06,170 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:43:06,175 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:43:11,170 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:43:11,175 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:43:16,170 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:43:16,176 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:43:21,162 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:43:21,166 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:43:26,168 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:43:26,173 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:43:31,170 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:43:31,176 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:43:36,162 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:43:36,168 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:38:46.177073 returns 0 results
+2022-10-30 22:47:14,107 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 788095b8-58df-11ed-be91-97742393551a
+2022-10-30 22:47:15,817 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 79847614-58df-11ed-be91-97742393551a
+2022-10-30 22:47:16,150 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 79b577d2-58df-11ed-be91-97742393551a
+2022-10-30 22:47:16,282 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 79cca3bc-58df-11ed-be91-97742393551a
+2022-10-30 22:47:16,481 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 79e9e1b6-58df-11ed-be91-97742393551a
+2022-10-30 22:47:16,645 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 7a02bd30-58df-11ed-be91-97742393551a
+2022-10-30 22:47:16,776 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 7a17f254-58df-11ed-be91-97742393551a
+2022-10-30 22:47:16,974 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 7a3651c2-58df-11ed-be91-97742393551a
+2022-10-30 22:47:17,191 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 7a55441a-58df-11ed-be91-97742393551a
+2022-10-30 22:47:17,319 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 7a6ae7ca-58df-11ed-be91-97742393551a
+2022-10-30 22:47:17,543 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 7a8cf5a4-58df-11ed-be91-97742393551a
+2022-10-30 22:47:17,701 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 7aa54d84-58df-11ed-be91-97742393551a
+2022-10-30 22:47:19,607 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 7bc6a244-58df-11ed-be91-97742393551a
+2022-10-30 22:47:19,753 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 7bdc8c9e-58df-11ed-be91-97742393551a
+2022-10-30 22:47:19,919 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 7bf7a6be-58df-11ed-be91-97742393551a
+2022-10-30 22:47:20,090 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 7c1033e6-58df-11ed-be91-97742393551a
+2022-10-30 22:47:20,240 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 7c283f9a-58df-11ed-be91-97742393551a
+2022-10-30 22:47:20,381 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 7c3e3c14-58df-11ed-be91-97742393551a
+2022-10-30 22:47:20,558 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 7c57f2bc-58df-11ed-be91-97742393551a
+2022-10-30 22:47:20,714 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 7c70e7b8-58df-11ed-be91-97742393551a
+2022-10-30 22:47:20,857 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 7c86cee8-58df-11ed-be91-97742393551a
+2022-10-30 22:47:21,128 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 7caf0e94-58df-11ed-be91-97742393551a
+2022-10-30 22:47:21,284 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 7cc4ba64-58df-11ed-be91-97742393551a
+2022-10-30 22:47:21,388 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 7cd7dd10-58df-11ed-be91-97742393551a
+2022-10-30 22:47:21,603 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 7cf7f154-58df-11ed-be91-97742393551a
+2022-10-30 22:47:21,830 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 7d19455c-58df-11ed-be91-97742393551a
+2022-10-30 22:47:21,992 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 7d324a34-58df-11ed-be91-97742393551a
+2022-10-30 22:47:44,332 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:38:46.177073 returns 15 results
+2022-10-30 22:47:44,338 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:38:46.177073 returns 12 results
+2022-10-30 22:47:49,352 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:47:44.340988 returns 0 results
+2022-10-30 22:47:49,357 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:47:44.340988 returns 0 results
+2022-10-30 22:47:49,495 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 8d986f70-58df-11ed-be91-97742393551a
+2022-10-30 22:47:49,650 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 8db02e1c-58df-11ed-be91-97742393551a
+2022-10-30 22:47:49,813 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 8dc8d228-58df-11ed-be91-97742393551a
+2022-10-30 22:47:49,970 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 8de11a22-58df-11ed-be91-97742393551a
+2022-10-30 22:47:50,088 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 8df313b2-58df-11ed-be91-97742393551a
+2022-10-30 22:47:50,330 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 8e15b566-58df-11ed-be91-97742393551a
+2022-10-30 22:47:50,478 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 8e2e6e8a-58df-11ed-be91-97742393551a
+2022-10-30 22:47:50,654 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 8e4585ac-58df-11ed-be91-97742393551a
+2022-10-30 22:47:50,854 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 8e65b8ae-58df-11ed-be91-97742393551a
+2022-10-30 22:47:50,967 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 8e793f0a-58df-11ed-be91-97742393551a
+2022-10-30 22:47:51,191 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 8e99635c-58df-11ed-be91-97742393551a
+2022-10-30 22:47:51,455 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 8ebf2830-58df-11ed-be91-97742393551a
+2022-10-30 22:47:51,564 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 8ed43e6e-58df-11ed-be91-97742393551a
+2022-10-30 22:47:51,787 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 8ef3e12e-58df-11ed-be91-97742393551a
+2022-10-30 22:47:51,865 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 8f021ff0-58df-11ed-be91-97742393551a
+2022-10-30 22:47:52,053 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 8f1ca62c-58df-11ed-be91-97742393551a
+2022-10-30 22:47:52,178 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 8f31f7ac-58df-11ed-be91-97742393551a
+2022-10-30 22:47:54,328 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:47:44.340988 returns 17 results
+2022-10-30 22:47:54,334 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:47:44.340988 returns 0 results
+2022-10-30 22:47:59,329 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:47:44.340988 returns 17 results
+2022-10-30 22:47:59,334 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:47:44.340988 returns 0 results
+2022-10-30 22:48:04,335 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:47:44.340988 returns 17 results
+2022-10-30 22:48:04,341 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:47:44.340988 returns 0 results
+2022-10-30 22:48:09,336 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:47:44.340988 returns 17 results
+2022-10-30 22:48:09,342 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:47:44.340988 returns 0 results
+2022-10-30 22:48:14,336 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:47:44.340988 returns 17 results
+2022-10-30 22:48:14,342 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:47:44.340988 returns 0 results
+2022-10-30 22:48:19,328 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:47:44.340988 returns 17 results
+2022-10-30 22:48:19,339 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:47:44.340988 returns 0 results
+2022-10-30 22:48:24,328 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:47:44.340988 returns 17 results
+2022-10-30 22:48:24,333 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:47:44.340988 returns 0 results
+2022-10-30 22:48:29,328 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:47:44.340988 returns 17 results
+2022-10-30 22:48:29,335 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:47:44.340988 returns 0 results
+2022-10-30 22:48:34,327 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:47:44.340988 returns 17 results
+2022-10-30 22:48:34,332 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:47:44.340988 returns 0 results
+2022-10-30 22:48:39,328 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:47:44.340988 returns 17 results
+2022-10-30 22:48:39,333 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:47:44.340988 returns 0 results
+2022-10-30 22:48:44,327 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:47:44.340988 returns 17 results
+2022-10-30 22:48:44,333 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:47:44.340988 returns 0 results
+2022-10-30 22:48:49,327 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:47:44.340988 returns 17 results
+2022-10-30 22:48:49,332 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:47:44.340988 returns 0 results
+2022-10-30 22:48:54,328 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:47:44.340988 returns 17 results
+2022-10-30 22:48:54,338 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:47:44.340988 returns 0 results
+2022-10-30 22:48:59,328 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:47:44.340988 returns 17 results
+2022-10-30 22:48:59,335 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:47:44.340988 returns 0 results
+2022-10-30 22:49:04,328 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:47:44.340988 returns 17 results
+2022-10-30 22:49:04,334 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:47:44.340988 returns 0 results
+2022-10-30 22:49:09,330 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:47:44.340988 returns 17 results
+2022-10-30 22:49:09,337 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:47:44.340988 returns 0 results
+2022-10-30 22:49:14,328 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:47:44.340988 returns 17 results
+2022-10-30 22:49:14,334 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:47:44.340988 returns 0 results
+2022-10-30 22:49:19,337 - basicLogger - INFO - Query for Exercise Data 1980-10-30 20:12:08.795698 returns 32 results
+2022-10-30 22:49:19,344 - basicLogger - INFO - Query for User Parameters 1980-10-30 20:12:08.795698 returns 12 results
+2022-10-30 22:49:24,328 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:49:19.347712 returns 0 results
+2022-10-30 22:49:24,333 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:49:19.347712 returns 0 results
+2022-10-30 22:49:29,328 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:49:19.347712 returns 0 results
+2022-10-30 22:49:29,334 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:49:19.347712 returns 0 results
+2022-10-30 22:49:31,343 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of ca4af974-58df-11ed-be91-97742393551a
+2022-10-30 22:49:31,758 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of ca898022-58df-11ed-be91-97742393551a
+2022-10-30 22:49:32,059 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of cab922be-58df-11ed-be91-97742393551a
+2022-10-30 22:49:32,351 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of cae71368-58df-11ed-be91-97742393551a
+2022-10-30 22:49:34,328 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:49:19.347712 returns 4 results
+2022-10-30 22:49:34,334 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:49:19.347712 returns 0 results
+2022-10-30 22:49:39,328 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:49:19.347712 returns 4 results
+2022-10-30 22:49:39,334 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:49:19.347712 returns 0 results
+2022-10-30 22:49:44,335 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:49:19.347712 returns 4 results
+2022-10-30 22:49:44,340 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:49:19.347712 returns 0 results
+2022-10-30 22:49:49,335 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:49:19.347712 returns 4 results
+2022-10-30 22:49:49,340 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:49:19.347712 returns 0 results
+2022-10-30 22:49:54,335 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:49:19.347712 returns 4 results
+2022-10-30 22:49:54,340 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:49:19.347712 returns 0 results
+2022-10-30 22:49:59,335 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:49:19.347712 returns 4 results
+2022-10-30 22:49:59,340 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:49:19.347712 returns 0 results
+2022-10-30 22:50:04,335 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:49:19.347712 returns 4 results
+2022-10-30 22:50:04,340 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:49:19.347712 returns 0 results
+2022-10-30 22:50:09,335 - basicLogger - INFO - Query for Exercise Data 2022-10-30 22:49:19.347712 returns 4 results
+2022-10-30 22:50:09,340 - basicLogger - INFO - Query for User Parameters 2022-10-30 22:49:19.347712 returns 0 results
+2022-10-30 23:25:13,208 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of c6efc12e-58e4-11ed-be91-97742393551a
+2022-10-30 23:25:15,192 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of c81e29fa-58e4-11ed-be91-97742393551a
+2022-10-30 23:25:15,444 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of c845e170-58e4-11ed-be91-97742393551a
+2022-10-30 23:25:15,678 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of c86a9dbc-58e4-11ed-be91-97742393551a
+2022-10-30 23:25:15,938 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of c8925ef6-58e4-11ed-be91-97742393551a
+2022-10-30 23:25:16,241 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of c8c18b68-58e4-11ed-be91-97742393551a
+2022-10-30 23:25:24,755 - basicLogger - DEBUG - Stored event userParameters request with a trace id of cdd3021c-58e4-11ed-be91-97742393551a
+2022-10-30 23:25:26,210 - basicLogger - DEBUG - Stored event userParameters request with a trace id of ceb0e1e0-58e4-11ed-be91-97742393551a
+2022-10-30 23:25:26,433 - basicLogger - DEBUG - Stored event userParameters request with a trace id of ced56614-58e4-11ed-be91-97742393551a
+2022-10-30 23:25:26,659 - basicLogger - DEBUG - Stored event userParameters request with a trace id of cef4a042-58e4-11ed-be91-97742393551a
+2022-10-30 23:25:26,879 - basicLogger - DEBUG - Stored event userParameters request with a trace id of cf178058-58e4-11ed-be91-97742393551a
+2022-10-30 23:51:38,016 - basicLogger - INFO - Query for Exercise Data 1980-10-30 20:12:08.795698 returns 6 results
+2022-10-30 23:51:38,023 - basicLogger - INFO - Query for User Parameters 1980-10-30 20:12:08.795698 returns 5 results
+2022-10-30 23:52:09,831 - basicLogger - INFO - Query for Exercise Data 1980-10-30 20:12:08.795698 returns 6 results
+2022-10-30 23:52:09,837 - basicLogger - INFO - Query for User Parameters 1980-10-30 20:12:08.795698 returns 5 results
+2022-10-30 23:53:38,551 - basicLogger - INFO - Query for Exercise Data 1980-10-30 20:12:08.795698 returns 6 results
+2022-10-30 23:53:38,556 - basicLogger - INFO - Query for User Parameters 1980-10-30 20:12:08.795698 returns 5 results
+2022-10-30 23:56:30,446 - basicLogger - INFO - Query for Exercise Data 1980-10-30 20:12:08.795698 returns 6 results
+2022-10-30 23:56:30,452 - basicLogger - INFO - Query for User Parameters 1980-10-30 20:12:08.795698 returns 5 results
+2022-10-30 23:57:44,811 - basicLogger - INFO - Query for Exercise Data 1980-10-30 20:12:08.795698 returns 6 results
+2022-10-30 23:57:44,817 - basicLogger - INFO - Query for User Parameters 1980-10-30 20:12:08.795698 returns 5 results
+2022-10-30 23:58:51,676 - basicLogger - INFO - Query for Exercise Data 1980-10-30 20:12:08.795698 returns 6 results
+2022-10-30 23:58:51,681 - basicLogger - INFO - Query for User Parameters 1980-10-30 20:12:08.795698 returns 5 results
+2022-10-30 23:59:03,744 - basicLogger - INFO - Query for Exercise Data 1980-10-30 20:12:08.795698 returns 6 results
+2022-10-30 23:59:03,749 - basicLogger - INFO - Query for User Parameters 1980-10-30 20:12:08.795698 returns 5 results
+2022-10-31 00:00:29,592 - basicLogger - INFO - Query for Exercise Data 1980-10-30 20:12:08.795698 returns 6 results
+2022-10-31 00:00:29,597 - basicLogger - INFO - Query for User Parameters 1980-10-30 20:12:08.795698 returns 5 results
+2022-10-31 00:02:10,641 - basicLogger - INFO - Query for Exercise Data 1980-10-30 20:12:08.795698 returns 6 results
+2022-10-31 00:02:10,646 - basicLogger - INFO - Query for User Parameters 1980-10-30 20:12:08.795698 returns 5 results
+2022-10-31 00:04:23,772 - basicLogger - INFO - Query for Exercise Data 1980-10-30 20:12:08.795698 returns 6 results
+2022-10-31 00:04:23,778 - basicLogger - INFO - Query for User Parameters 1980-10-30 20:12:08.795698 returns 5 results
+2022-10-31 00:08:18,836 - basicLogger - INFO - Query for Exercise Data 1980-10-30 20:12:08.795698 returns 6 results
+2022-10-31 00:08:18,841 - basicLogger - INFO - Query for User Parameters 1980-10-30 20:12:08.795698 returns 5 results
+2022-10-31 00:12:04,885 - basicLogger - INFO - Query for Exercise Data 1980-10-30 20:12:08.795698 returns 6 results
+2022-10-31 00:12:04,890 - basicLogger - INFO - Query for User Parameters 1980-10-30 20:12:08.795698 returns 5 results
+2022-10-31 00:12:09,891 - basicLogger - INFO - Query for Exercise Data 1980-10-30 20:12:08.795698 returns 6 results
+2022-10-31 00:12:09,896 - basicLogger - INFO - Query for User Parameters 1980-10-30 20:12:08.795698 returns 5 results
+2022-10-31 00:13:25,782 - basicLogger - INFO - Query for Exercise Data 1980-10-30 20:12:08.795698 returns 6 results
+2022-10-31 00:13:25,787 - basicLogger - INFO - Query for User Parameters 1980-10-30 20:12:08.795698 returns 5 results
+2022-10-31 00:13:30,809 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:13:25.790265 returns 0 results
+2022-10-31 00:13:30,815 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:13:25.790265 returns 0 results
+2022-10-31 00:13:35,773 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:13:25.790265 returns 0 results
+2022-10-31 00:13:35,778 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:13:25.790265 returns 0 results
+2022-10-31 00:13:40,774 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:13:25.790265 returns 0 results
+2022-10-31 00:13:40,778 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:13:25.790265 returns 0 results
+2022-10-31 00:13:45,387 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 8ebdec52-58eb-11ed-be91-97742393551a
+2022-10-31 00:13:45,520 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 8ed3895e-58eb-11ed-be91-97742393551a
+2022-10-31 00:13:45,696 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 8eecbf82-58eb-11ed-be91-97742393551a
+2022-10-31 00:13:45,775 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:13:25.790265 returns 3 results
+2022-10-31 00:13:45,780 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:13:25.790265 returns 0 results
+2022-10-31 00:13:45,831 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 8f032af6-58eb-11ed-be91-97742393551a
+2022-10-31 00:13:46,002 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 8f1bf4aa-58eb-11ed-be91-97742393551a
+2022-10-31 00:13:46,140 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 8f323bde-58eb-11ed-be91-97742393551a
+2022-10-31 00:13:46,349 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 8f4fe1e8-58eb-11ed-be91-97742393551a
+2022-10-31 00:13:46,454 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 8f621822-58eb-11ed-be91-97742393551a
+2022-10-31 00:13:46,674 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 8f811a24-58eb-11ed-be91-97742393551a
+2022-10-31 00:13:46,773 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 8f92bafe-58eb-11ed-be91-97742393551a
+2022-10-31 00:13:46,888 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 8fa44e5e-58eb-11ed-be91-97742393551a
+2022-10-31 00:13:47,674 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 901afb8a-58eb-11ed-be91-97742393551a
+2022-10-31 00:13:47,814 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 9031b47e-58eb-11ed-be91-97742393551a
+2022-10-31 00:13:48,289 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 907676fe-58eb-11ed-be91-97742393551a
+2022-10-31 00:13:48,388 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 908951fc-58eb-11ed-be91-97742393551a
+2022-10-31 00:13:48,627 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 90aae5d8-58eb-11ed-be91-97742393551a
+2022-10-31 00:13:48,835 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 90cbf4ee-58eb-11ed-be91-97742393551a
+2022-10-31 00:13:48,955 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 90dfb3a8-58eb-11ed-be91-97742393551a
+2022-10-31 00:13:49,178 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 90fd4c74-58eb-11ed-be91-97742393551a
+2022-10-31 00:13:50,778 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:13:45.781628 returns 16 results
+2022-10-31 00:13:50,784 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:13:45.781628 returns 0 results
+2022-10-31 00:13:55,007 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 947b5152-58eb-11ed-be91-97742393551a
+2022-10-31 00:13:55,462 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 94be6712-58eb-11ed-be91-97742393551a
+2022-10-31 00:13:55,606 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 94d554b8-58eb-11ed-be91-97742393551a
+2022-10-31 00:13:55,765 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 94eeefcc-58eb-11ed-be91-97742393551a
+2022-10-31 00:13:55,773 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:13:50.786346 returns 0 results
+2022-10-31 00:13:55,778 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:13:50.786346 returns 4 results
+2022-10-31 00:13:55,932 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 9505d070-58eb-11ed-be91-97742393551a
+2022-10-31 00:13:56,057 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 951b6a20-58eb-11ed-be91-97742393551a
+2022-10-31 00:13:56,565 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 95668a64-58eb-11ed-be91-97742393551a
+2022-10-31 00:13:56,704 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 957cddbe-58eb-11ed-be91-97742393551a
+2022-10-31 00:13:56,844 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 95937a56-58eb-11ed-be91-97742393551a
+2022-10-31 00:13:57,041 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 95ae5d44-58eb-11ed-be91-97742393551a
+2022-10-31 00:13:57,233 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 95ccc888-58eb-11ed-be91-97742393551a
+2022-10-31 00:13:57,364 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 95e2b67a-58eb-11ed-be91-97742393551a
+2022-10-31 00:13:57,532 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 95fb25fc-58eb-11ed-be91-97742393551a
+2022-10-31 00:13:57,793 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 96201b5a-58eb-11ed-be91-97742393551a
+2022-10-31 00:13:57,947 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 96399418-58eb-11ed-be91-97742393551a
+2022-10-31 00:13:58,266 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 966c644c-58eb-11ed-be91-97742393551a
+2022-10-31 00:14:00,773 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:13:50.786346 returns 0 results
+2022-10-31 00:14:00,780 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:13:50.786346 returns 16 results
+2022-10-31 00:15:38,774 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:13:50.786346 returns 0 results
+2022-10-31 00:15:38,779 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:13:50.786346 returns 16 results
+2022-10-31 00:16:01,475 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:13:50.786346 returns 0 results
+2022-10-31 00:16:01,481 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:13:50.786346 returns 16 results
+2022-10-31 00:16:06,490 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:01.484914 returns 0 results
+2022-10-31 00:16:06,495 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:01.484914 returns 0 results
+2022-10-31 00:16:09,160 - basicLogger - DEBUG - Stored event userParameters request with a trace id of e46db97a-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:09,301 - basicLogger - DEBUG - Stored event userParameters request with a trace id of e4862604-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:09,451 - basicLogger - DEBUG - Stored event userParameters request with a trace id of e49da202-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:09,638 - basicLogger - DEBUG - Stored event userParameters request with a trace id of e4b6ae46-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:09,777 - basicLogger - DEBUG - Stored event userParameters request with a trace id of e4cf3df8-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:09,936 - basicLogger - DEBUG - Stored event userParameters request with a trace id of e4e7c508-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:10,124 - basicLogger - DEBUG - Stored event userParameters request with a trace id of e5017b60-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:10,258 - basicLogger - DEBUG - Stored event userParameters request with a trace id of e519088e-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:10,463 - basicLogger - DEBUG - Stored event userParameters request with a trace id of e53455bc-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:10,713 - basicLogger - DEBUG - Stored event userParameters request with a trace id of e55cc740-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:10,884 - basicLogger - DEBUG - Stored event userParameters request with a trace id of e577885a-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:11,024 - basicLogger - DEBUG - Stored event userParameters request with a trace id of e58dd948-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:11,277 - basicLogger - DEBUG - Stored event userParameters request with a trace id of e5b0d48e-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:11,437 - basicLogger - DEBUG - Stored event userParameters request with a trace id of e5cb5188-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:11,468 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:01.484914 returns 0 results
+2022-10-31 00:16:11,473 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:01.484914 returns 14 results
+2022-10-31 00:16:11,580 - basicLogger - DEBUG - Stored event userParameters request with a trace id of e5e2b10c-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:11,735 - basicLogger - DEBUG - Stored event userParameters request with a trace id of e5fa53ca-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:14,475 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of e79c5a16-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:14,699 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of e7bcf6ea-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:14,853 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of e7d60964-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:15,143 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of e80116fe-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:15,304 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of e817f3ec-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:15,448 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of e830ad56-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:15,608 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of e847dcba-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:15,751 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of e85f1f06-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:15,976 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of e87e17d0-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:16,083 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of e891adc2-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:16,267 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of e8adbb52-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:16,455 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of e8c69136-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:16,470 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:11.476459 returns 12 results
+2022-10-31 00:16:16,475 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:11.476459 returns 2 results
+2022-10-31 00:16:16,624 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of e8e433f8-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:16,806 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of e8fe7f2e-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:16,937 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of e914068c-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:17,126 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of e92e1c70-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:17,264 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of e945e454-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:17,458 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of e95fb492-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:17,742 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of e98d58a2-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:17,929 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of e9a8a828-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:18,057 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of e9beef0c-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:18,296 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of e9df1d22-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:20,966 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of eb784f64-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:21,124 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of eb907c1a-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:21,360 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of ebb5c060-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:21,470 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:16.477225 returns 13 results
+2022-10-31 00:16:21,475 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:16.477225 returns 0 results
+2022-10-31 00:16:21,611 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of ebdd49f0-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:21,714 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of ebecfb52-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:21,810 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of ebfb9784-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:21,954 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of ec1189fe-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:22,102 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of ec282ae2-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:22,203 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of ec3773d0-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:22,309 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of ec47c8e8-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:22,442 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of ec5beb70-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:22,590 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of ec72aa40-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:22,690 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of ec81de0c-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:22,792 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of ec915436-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:22,890 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of eca0715a-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:22,990 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of ecafa896-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:23,121 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of ecc20766-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:23,208 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of ecd0f276-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:23,359 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of ece7f1ba-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:23,457 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of ecf6dbf8-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:23,626 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of ed0f63ee-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:23,705 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of ed1cccb4-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:23,842 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of ed31a99a-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:23,949 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of ed41f890-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:24,100 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of ed59083c-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:24,250 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of ed6fdbb6-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:24,345 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of ed7e71b2-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:24,481 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of ed92a236-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:24,575 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of eda199c6-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:24,738 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of edb733d0-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:24,810 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of edc555e6-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:24,955 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of eddb68cc-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:25,052 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of edea4d7e-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:25,148 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of edf8de84-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:25,282 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of ee0d6084-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:25,437 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of ee23b19a-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:25,572 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of ee39ab4e-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:25,673 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of ee485c34-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:25,807 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of ee5d3faa-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:25,965 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of ee758722-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:26,100 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of ee8a2948-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:26,198 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of ee99150c-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:26,292 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of eea796ea-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:26,471 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:21.477556 returns 40 results
+2022-10-31 00:16:26,478 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:21.477556 returns 0 results
+2022-10-31 00:16:27,348 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of ef451758-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:27,477 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of ef5c3ef6-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:27,820 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of ef8d9898-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:28,285 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of efd64e58-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:28,366 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of efe409b2-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:28,528 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of effa5a82-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:28,607 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of f008a59c-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:28,695 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of f0162f5a-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:28,863 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of f02cbe8c-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:29,279 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of f06dd64c-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:29,355 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of f07aec6a-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:29,693 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of f0aa3448-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:29,748 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of f0b6dc2a-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:29,933 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of f0cfde78-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:30,004 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of f0ddeb6c-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:30,166 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of f0f67f06-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:31,469 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:26.481578 returns 16 results
+2022-10-31 00:16:31,473 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:26.481578 returns 0 results
+2022-10-31 00:16:33,481 - basicLogger - DEBUG - Stored event userParameters request with a trace id of f2ef2556-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:33,675 - basicLogger - DEBUG - Stored event userParameters request with a trace id of f30b13f6-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:33,735 - basicLogger - DEBUG - Stored event userParameters request with a trace id of f31742ac-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:33,836 - basicLogger - DEBUG - Stored event userParameters request with a trace id of f3268398-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:33,966 - basicLogger - DEBUG - Stored event userParameters request with a trace id of f33a68ea-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:34,062 - basicLogger - DEBUG - Stored event userParameters request with a trace id of f3493212-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:34,160 - basicLogger - DEBUG - Stored event userParameters request with a trace id of f3580d50-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:34,303 - basicLogger - DEBUG - Stored event userParameters request with a trace id of f36ddc66-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:34,397 - basicLogger - DEBUG - Stored event userParameters request with a trace id of f37c12b8-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:34,575 - basicLogger - DEBUG - Stored event userParameters request with a trace id of f39600f6-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:34,651 - basicLogger - DEBUG - Stored event userParameters request with a trace id of f3a2e87a-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:34,809 - basicLogger - DEBUG - Stored event userParameters request with a trace id of f3bb1d82-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:34,900 - basicLogger - DEBUG - Stored event userParameters request with a trace id of f3c8e516-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:35,054 - basicLogger - DEBUG - Stored event userParameters request with a trace id of f3de248a-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:35,134 - basicLogger - DEBUG - Stored event userParameters request with a trace id of f3ecb9c8-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:35,402 - basicLogger - DEBUG - Stored event userParameters request with a trace id of f412442c-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:35,471 - basicLogger - DEBUG - Stored event userParameters request with a trace id of f4202650-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:35,606 - basicLogger - DEBUG - Stored event userParameters request with a trace id of f434b02a-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:35,710 - basicLogger - DEBUG - Stored event userParameters request with a trace id of f444a7a0-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:35,862 - basicLogger - DEBUG - Stored event userParameters request with a trace id of f45a6784-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:36,098 - basicLogger - DEBUG - Stored event userParameters request with a trace id of f47e610c-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:36,191 - basicLogger - DEBUG - Stored event userParameters request with a trace id of f48de8ac-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:36,363 - basicLogger - DEBUG - Stored event userParameters request with a trace id of f4a4cd2e-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:36,440 - basicLogger - DEBUG - Stored event userParameters request with a trace id of f4b3f1fa-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:36,469 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:31.475748 returns 0 results
+2022-10-31 00:16:36,474 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:31.475748 returns 24 results
+2022-10-31 00:16:36,588 - basicLogger - DEBUG - Stored event userParameters request with a trace id of f4ca66ce-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:36,689 - basicLogger - DEBUG - Stored event userParameters request with a trace id of f4d9b250-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:37,791 - basicLogger - DEBUG - Stored event userParameters request with a trace id of f57fd70c-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:37,904 - basicLogger - DEBUG - Stored event userParameters request with a trace id of f593552a-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:38,070 - basicLogger - DEBUG - Stored event userParameters request with a trace id of f5ab73ee-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:38,239 - basicLogger - DEBUG - Stored event userParameters request with a trace id of f5c44932-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:38,389 - basicLogger - DEBUG - Stored event userParameters request with a trace id of f5dd3e38-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:38,505 - basicLogger - DEBUG - Stored event userParameters request with a trace id of f5ef128e-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:38,612 - basicLogger - DEBUG - Stored event userParameters request with a trace id of f5ff1b48-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:38,708 - basicLogger - DEBUG - Stored event userParameters request with a trace id of f60e057c-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:39,282 - basicLogger - DEBUG - Stored event userParameters request with a trace id of f6626e3c-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:39,352 - basicLogger - DEBUG - Stored event userParameters request with a trace id of f6705510-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:39,609 - basicLogger - DEBUG - Stored event userParameters request with a trace id of f6964c48-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:39,702 - basicLogger - DEBUG - Stored event userParameters request with a trace id of f6a5ac38-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:39,972 - basicLogger - DEBUG - Stored event userParameters request with a trace id of f6cbc6de-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:40,050 - basicLogger - DEBUG - Stored event userParameters request with a trace id of f6da9ace-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:40,139 - basicLogger - DEBUG - Stored event userParameters request with a trace id of f6e85a6a-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:40,268 - basicLogger - DEBUG - Stored event userParameters request with a trace id of f6fc1a64-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:40,366 - basicLogger - DEBUG - Stored event userParameters request with a trace id of f70b07f4-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:40,502 - basicLogger - DEBUG - Stored event userParameters request with a trace id of f71fca68-58eb-11ed-be91-97742393551a
+2022-10-31 00:16:41,470 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:36.479385 returns 0 results
+2022-10-31 00:16:41,476 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:36.479385 returns 20 results
+2022-10-31 00:16:46,469 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:16:46,473 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:16:51,470 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:16:51,474 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:16:56,470 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:16:56,475 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:17:01,471 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:17:01,476 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:17:06,479 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:17:06,484 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:17:11,470 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:17:11,475 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:17:16,470 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:17:16,475 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:17:21,470 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:17:21,475 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:17:26,471 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:17:26,478 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:17:31,470 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:17:31,475 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:17:36,470 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:17:36,475 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:17:41,472 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:17:41,477 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:17:46,480 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:17:46,486 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:17:51,471 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:17:51,480 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:17:56,470 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:17:56,475 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:18:01,473 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:18:01,479 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:18:06,470 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:18:06,474 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:18:11,469 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:18:11,474 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:18:16,477 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:18:16,483 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:18:21,478 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:18:21,484 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:18:26,470 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:18:26,475 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:18:31,469 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:18:31,474 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:18:36,470 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:18:36,475 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:18:41,471 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:18:41,476 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:18:46,470 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:18:46,475 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:18:51,470 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:18:51,475 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:18:56,473 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:18:56,479 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:19:01,470 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:19:01,474 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:19:06,470 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:19:06,475 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:19:11,478 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:19:11,483 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:19:16,477 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:19:16,482 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:19:21,470 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:19:21,475 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:19:26,470 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:19:26,475 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:19:31,477 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:19:31,484 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:19:36,478 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:19:36,484 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:19:41,469 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:19:41,474 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:19:46,469 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:19:46,474 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:19:51,477 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:19:51,482 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:19:56,477 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:19:56,482 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:20:01,477 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:20:01,483 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:20:06,476 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:20:06,481 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:20:11,477 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:20:11,483 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:20:16,477 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:20:16,481 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:20:21,478 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:20:21,484 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:20:26,470 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:20:26,475 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:20:31,470 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:20:31,476 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:20:36,471 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:20:36,476 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:20:41,470 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:20:41,474 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:20:46,470 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:20:46,474 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:20:51,470 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:20:51,475 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:20:56,471 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:20:56,476 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:21:01,470 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:21:01,474 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:21:06,470 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:21:06,474 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:21:11,470 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:21:11,475 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:21:16,470 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:21:16,476 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:21:21,469 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:21:21,474 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:21:26,470 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:21:26,477 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:21:31,472 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:21:31,480 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:21:36,470 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:21:36,474 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:21:41,469 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:21:41,473 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:21:46,478 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:21:46,483 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:21:51,478 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:21:51,483 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:21:56,478 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:21:56,484 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:22:01,478 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:22:01,484 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:22:06,478 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:22:06,484 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:22:11,478 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:22:11,483 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:22:16,478 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:22:16,483 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:22:21,481 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:22:21,487 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:22:26,473 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:22:26,480 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:22:31,471 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:22:31,476 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:22:36,471 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:22:36,477 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:22:41,470 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:22:41,475 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:22:46,469 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:22:46,474 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:22:51,477 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:22:51,482 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:22:56,470 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:22:56,476 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:23:01,477 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:23:01,481 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:23:06,477 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:23:06,482 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:23:11,471 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:23:11,475 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:23:15,610 - basicLogger - DEBUG - Stored event userParameters request with a trace id of e29f0e2c-58ec-11ed-be91-97742393551a
+2022-10-31 00:23:15,793 - basicLogger - DEBUG - Stored event userParameters request with a trace id of e2b94f8a-58ec-11ed-be91-97742393551a
+2022-10-31 00:23:15,945 - basicLogger - DEBUG - Stored event userParameters request with a trace id of e2d1364a-58ec-11ed-be91-97742393551a
+2022-10-31 00:23:16,085 - basicLogger - DEBUG - Stored event userParameters request with a trace id of e2e8ca76-58ec-11ed-be91-97742393551a
+2022-10-31 00:23:16,243 - basicLogger - DEBUG - Stored event userParameters request with a trace id of e300e534-58ec-11ed-be91-97742393551a
+2022-10-31 00:23:16,385 - basicLogger - DEBUG - Stored event userParameters request with a trace id of e316cb88-58ec-11ed-be91-97742393551a
+2022-10-31 00:23:16,575 - basicLogger - DEBUG - Stored event userParameters request with a trace id of e33204fc-58ec-11ed-be91-97742393551a
+2022-10-31 00:23:16,727 - basicLogger - DEBUG - Stored event userParameters request with a trace id of e3488b78-58ec-11ed-be91-97742393551a
+2022-10-31 00:23:16,891 - basicLogger - DEBUG - Stored event userParameters request with a trace id of e36407f4-58ec-11ed-be91-97742393551a
+2022-10-31 00:23:17,098 - basicLogger - DEBUG - Stored event userParameters request with a trace id of e3821f8c-58ec-11ed-be91-97742393551a
+2022-10-31 00:23:17,259 - basicLogger - DEBUG - Stored event userParameters request with a trace id of e39a32d4-58ec-11ed-be91-97742393551a
+2022-10-31 00:23:17,451 - basicLogger - DEBUG - Stored event userParameters request with a trace id of e3b6bd82-58ec-11ed-be91-97742393551a
+2022-10-31 00:23:17,690 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:16:41.489193 returns 0 results
+2022-10-31 00:23:17,696 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:16:41.489193 returns 12 results
+2022-10-31 00:23:17,714 - basicLogger - DEBUG - Stored event userParameters request with a trace id of e3e17cde-58ec-11ed-be91-97742393551a
+2022-10-31 00:23:18,093 - basicLogger - DEBUG - Stored event userParameters request with a trace id of e419a3f2-58ec-11ed-be91-97742393551a
+2022-10-31 00:23:18,297 - basicLogger - DEBUG - Stored event userParameters request with a trace id of e436ebb0-58ec-11ed-be91-97742393551a
+2022-10-31 00:23:18,422 - basicLogger - DEBUG - Stored event userParameters request with a trace id of e44d7e52-58ec-11ed-be91-97742393551a
+2022-10-31 00:23:18,617 - basicLogger - DEBUG - Stored event userParameters request with a trace id of e46b477a-58ec-11ed-be91-97742393551a
+2022-10-31 00:23:20,737 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of e5ac7ae6-58ec-11ed-be91-97742393551a
+2022-10-31 00:23:20,860 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of e5c17afe-58ec-11ed-be91-97742393551a
+2022-10-31 00:23:21,015 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of e5d935ae-58ec-11ed-be91-97742393551a
+2022-10-31 00:23:21,480 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of e61ecaa6-58ec-11ed-be91-97742393551a
+2022-10-31 00:23:21,607 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of e633933c-58ec-11ed-be91-97742393551a
+2022-10-31 00:23:21,734 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of e6457eee-58ec-11ed-be91-97742393551a
+2022-10-31 00:23:21,840 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of e657153c-58ec-11ed-be91-97742393551a
+2022-10-31 00:23:22,083 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of e67a4e26-58ec-11ed-be91-97742393551a
+2022-10-31 00:23:22,290 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of e69a6cc4-58ec-11ed-be91-97742393551a
+2022-10-31 00:23:22,536 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of e6c0178a-58ec-11ed-be91-97742393551a
+2022-10-31 00:23:22,710 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:23:17.700103 returns 10 results
+2022-10-31 00:23:22,715 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:23:17.700103 returns 5 results
+2022-10-31 00:23:22,894 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of e6f7eb60-58ec-11ed-be91-97742393551a
+2022-10-31 00:23:22,993 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of e706f830-58ec-11ed-be91-97742393551a
+2022-10-31 00:23:27,687 - basicLogger - INFO - Query for Exercise Data 2022-10-31 00:23:22.718682 returns 2 results
+2022-10-31 00:23:27,693 - basicLogger - INFO - Query for User Parameters 2022-10-31 00:23:22.718682 returns 0 results
+2022-11-01 07:31:38,880 - basicLogger - INFO - Connecting to DB. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:3306
+2022-11-01 07:31:38,917 - basicLogger - INFO - Connecting to DB. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:3306
+2022-11-17 13:45:22,460 - basicLogger - INFO - Connecting to DB. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:3306
+2022-11-17 13:45:22,503 - basicLogger - INFO - Connecting to DB. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:3306
+2022-11-17 15:00:51,083 - basicLogger - INFO - Connecting to DB. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:3306
+2022-11-17 15:00:51,125 - basicLogger - INFO - Connecting to DB. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:3306
+2022-11-17 15:03:19,431 - basicLogger - INFO - Connecting to DB. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:3306
+2022-11-17 15:03:19,473 - basicLogger - INFO - Connecting to DB. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:3306
+2022-11-17 15:04:16,422 - basicLogger - INFO - Connecting to DB. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:3306
+2022-11-17 15:04:16,464 - basicLogger - INFO - Connecting to DB. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:3306
+2022-11-17 15:07:00,787 - basicLogger - INFO - Connecting to DB. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:3306
+2022-11-17 15:07:00,828 - basicLogger - INFO - Connecting to DB. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:3306
+2022-11-17 15:32:55,877 - basicLogger - INFO - Connecting to DB. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:3306
+2022-11-17 15:32:55,922 - basicLogger - INFO - Connecting to DB. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:3306
+2022-11-17 15:34:16,441 - basicLogger - INFO - Connecting to DB. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:3306
+2022-11-17 15:34:16,487 - basicLogger - INFO - Connecting to DB. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:3306
+2022-11-17 15:34:41,761 - basicLogger - INFO - Connecting to DB. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:3306
+2022-11-17 15:34:41,806 - basicLogger - INFO - Connecting to DB. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:3306
+2022-11-17 15:34:52,148 - basicLogger - INFO - Message: {'type': 'exercise_data', 'datetime': '2022-11-17T15:34:52', 'payload': {'user_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'device_name': 'Fit Watch Pro', 'heart_rate': 180, 'date_created': '2022-11-17 15:34:52.068992', 'recording_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'trace_time': '2022-11-17 15:34:52.069002', 'trace_id': '6f0cbf76-66d0-11ed-98bf-a50334f30197'}}
+2022-11-17 15:40:44,678 - basicLogger - INFO - Connecting to DB. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:3306
+2022-11-17 15:40:44,722 - basicLogger - INFO - Connecting to DB. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:3306
+2022-11-17 15:40:45,781 - basicLogger - INFO - Message: {'type': 'exercise_data', 'datetime': '2022-11-17T15:34:52', 'payload': {'user_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'device_name': 'Fit Watch Pro', 'heart_rate': 180, 'date_created': '2022-11-17 15:34:52.068992', 'recording_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'trace_time': '2022-11-17 15:34:52.069002', 'trace_id': '6f0cbf76-66d0-11ed-98bf-a50334f30197'}}
+2022-11-17 15:44:07,969 - basicLogger - INFO - Connecting to DB. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:3306
+2022-11-17 15:44:08,013 - basicLogger - INFO - Connecting to DB. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:3306
+2022-11-17 15:44:08,947 - basicLogger - INFO - Message: {'type': 'exercise_data', 'datetime': '2022-11-17T15:34:52', 'payload': {'user_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'device_name': 'Fit Watch Pro', 'heart_rate': 180, 'date_created': '2022-11-17 15:34:52.068992', 'recording_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'trace_time': '2022-11-17 15:34:52.069002', 'trace_id': '6f0cbf76-66d0-11ed-98bf-a50334f30197'}}
+2022-11-17 16:14:54,451 - basicLogger - INFO - Connecting to DB. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:3306
+2022-11-17 16:14:54,492 - basicLogger - INFO - Connecting to DB. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:3306
+2022-11-17 16:15:12,673 - basicLogger - INFO - Message: {'type': 'exercise_data', 'datetime': '2022-11-17T16:15:12', 'payload': {'user_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'device_name': 'Fit Watch Pro', 'heart_rate': 180, 'date_created': '2022-11-17 16:15:12.419440', 'recording_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'trace_time': '2022-11-17 16:15:12.419450', 'trace_id': '11b0ec3e-66d6-11ed-98bf-a50334f30197'}}
+2022-11-17 16:15:23,654 - basicLogger - INFO - Connecting to DB. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:3306
+2022-11-17 16:15:23,697 - basicLogger - INFO - Connecting to DB. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:3306
+2022-11-17 16:15:24,803 - basicLogger - INFO - Message: {'type': 'exercise_data', 'datetime': '2022-11-17T16:15:12', 'payload': {'user_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'device_name': 'Fit Watch Pro', 'heart_rate': 180, 'date_created': '2022-11-17 16:15:12.419440', 'recording_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'trace_time': '2022-11-17 16:15:12.419450', 'trace_id': '11b0ec3e-66d6-11ed-98bf-a50334f30197'}}
+2022-11-17 16:16:35,192 - basicLogger - INFO - Connecting to DB. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:3306
+2022-11-17 16:16:35,236 - basicLogger - INFO - Connecting to DB. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:3306
+2022-11-17 16:16:36,289 - basicLogger - INFO - Message: {'type': 'exercise_data', 'datetime': '2022-11-17T16:15:12', 'payload': {'user_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'device_name': 'Fit Watch Pro', 'heart_rate': 180, 'date_created': '2022-11-17 16:15:12.419440', 'recording_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'trace_time': '2022-11-17 16:15:12.419450', 'trace_id': '11b0ec3e-66d6-11ed-98bf-a50334f30197'}}
+2022-11-17 16:16:43,581 - basicLogger - INFO - Connecting to DB. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:3306
+2022-11-17 16:16:43,624 - basicLogger - INFO - Connecting to DB. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:3306
+2022-11-17 16:16:44,578 - basicLogger - INFO - Message: {'type': 'exercise_data', 'datetime': '2022-11-17T16:15:12', 'payload': {'user_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'device_name': 'Fit Watch Pro', 'heart_rate': 180, 'date_created': '2022-11-17 16:15:12.419440', 'recording_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'trace_time': '2022-11-17 16:15:12.419450', 'trace_id': '11b0ec3e-66d6-11ed-98bf-a50334f30197'}}
+2022-11-17 16:17:29,065 - basicLogger - INFO - Connecting to DB. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:3306
+2022-11-17 16:17:29,108 - basicLogger - INFO - Connecting to DB. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:3306
+2022-11-17 16:17:30,149 - basicLogger - INFO - Message: {'type': 'exercise_data', 'datetime': '2022-11-17T16:15:12', 'payload': {'user_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'device_name': 'Fit Watch Pro', 'heart_rate': 180, 'date_created': '2022-11-17 16:15:12.419440', 'recording_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'trace_time': '2022-11-17 16:15:12.419450', 'trace_id': '11b0ec3e-66d6-11ed-98bf-a50334f30197'}}
+2022-11-17 16:19:12,360 - basicLogger - INFO - Connecting to DB. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:3306
+2022-11-17 16:19:12,402 - basicLogger - INFO - Connecting to DB. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:3306
+2022-11-17 16:19:13,375 - basicLogger - INFO - Message: {'type': 'exercise_data', 'datetime': '2022-11-17T16:15:12', 'payload': {'user_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'device_name': 'Fit Watch Pro', 'heart_rate': 180, 'date_created': '2022-11-17 16:15:12.419440', 'recording_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'trace_time': '2022-11-17 16:15:12.419450', 'trace_id': '11b0ec3e-66d6-11ed-98bf-a50334f30197'}}
+2022-11-17 16:19:21,022 - basicLogger - INFO - Connecting to DB. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:3306
+2022-11-17 16:19:21,065 - basicLogger - INFO - Connecting to DB. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:3306
+2022-11-17 16:19:21,841 - basicLogger - INFO - Message: {'type': 'exercise_data', 'datetime': '2022-11-17T16:15:12', 'payload': {'user_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'device_name': 'Fit Watch Pro', 'heart_rate': 180, 'date_created': '2022-11-17 16:15:12.419440', 'recording_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'trace_time': '2022-11-17 16:15:12.419450', 'trace_id': '11b0ec3e-66d6-11ed-98bf-a50334f30197'}}
+2022-11-17 19:40:10,833 - basicLogger - INFO - Connecting to DB. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:3306
+2022-11-17 19:40:10,895 - basicLogger - INFO - Connecting to DB. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:3306
+2022-11-17 19:40:11,349 - basicLogger - INFO - Message: {'type': 'exercise_data', 'datetime': '2022-11-17T16:15:12', 'payload': {'user_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'device_name': 'Fit Watch Pro', 'heart_rate': 180, 'date_created': '2022-11-17 16:15:12.419440', 'recording_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'trace_time': '2022-11-17 16:15:12.419450', 'trace_id': '11b0ec3e-66d6-11ed-98bf-a50334f30197'}}
+2022-11-17 19:48:05,306 - basicLogger - INFO - Connecting to DB. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:3306
+2022-11-17 19:48:05,363 - basicLogger - INFO - Connecting to DB. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:3306
+2022-11-17 19:48:05,812 - basicLogger - INFO - Message: {'type': 'exercise_data', 'datetime': '2022-11-17T16:15:12', 'payload': {'user_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'device_name': 'Fit Watch Pro', 'heart_rate': 180, 'date_created': '2022-11-17 16:15:12.419440', 'recording_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'trace_time': '2022-11-17 16:15:12.419450', 'trace_id': '11b0ec3e-66d6-11ed-98bf-a50334f30197'}}
+2022-11-17 19:48:49,974 - basicLogger - INFO - Connecting to DB. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:3306
+2022-11-17 19:48:50,020 - basicLogger - INFO - Connecting to DB. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:3306
+2022-11-17 19:48:50,467 - basicLogger - INFO - Message: {'type': 'exercise_data', 'datetime': '2022-11-17T16:15:12', 'payload': {'user_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'device_name': 'Fit Watch Pro', 'heart_rate': 180, 'date_created': '2022-11-17 16:15:12.419440', 'recording_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'trace_time': '2022-11-17 16:15:12.419450', 'trace_id': '11b0ec3e-66d6-11ed-98bf-a50334f30197'}}
+2022-11-17 19:53:12,748 - basicLogger - INFO - Connecting to DB. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:3306
+2022-11-17 19:53:12,790 - basicLogger - INFO - Connecting to DB. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:3306
+2022-11-17 19:53:13,229 - basicLogger - INFO - Message: {'type': 'exercise_data', 'datetime': '2022-11-17T16:15:12', 'payload': {'user_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'device_name': 'Fit Watch Pro', 'heart_rate': 180, 'date_created': '2022-11-17 16:15:12.419440', 'recording_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'trace_time': '2022-11-17 16:15:12.419450', 'trace_id': '11b0ec3e-66d6-11ed-98bf-a50334f30197'}}
+2022-11-17 19:53:25,957 - basicLogger - INFO - Connecting to DB. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:3306
+2022-11-17 19:53:26,000 - basicLogger - INFO - Connecting to DB. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:3306
+2022-11-17 19:53:26,432 - basicLogger - INFO - Message: {'type': 'exercise_data', 'datetime': '2022-11-17T16:15:12', 'payload': {'user_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'device_name': 'Fit Watch Pro', 'heart_rate': 180, 'date_created': '2022-11-17 16:15:12.419440', 'recording_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'trace_time': '2022-11-17 16:15:12.419450', 'trace_id': '11b0ec3e-66d6-11ed-98bf-a50334f30197'}}
+2022-11-17 19:55:27,706 - basicLogger - INFO - Connecting to DB. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:3306
+2022-11-17 19:55:27,752 - basicLogger - INFO - Connecting to DB. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:3306
+2022-11-17 19:55:28,184 - basicLogger - INFO - Message: {'type': 'exercise_data', 'datetime': '2022-11-17T16:15:12', 'payload': {'user_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'device_name': 'Fit Watch Pro', 'heart_rate': 180, 'date_created': '2022-11-17 16:15:12.419440', 'recording_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'trace_time': '2022-11-17 16:15:12.419450', 'trace_id': '11b0ec3e-66d6-11ed-98bf-a50334f30197'}}
+2022-11-17 19:59:54,303 - basicLogger - INFO - Connecting to DB. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:3306
+2022-11-17 19:59:54,358 - basicLogger - INFO - Connecting to DB. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:3306
+2022-11-17 19:59:54,806 - basicLogger - INFO - Message: {'type': 'exercise_data', 'datetime': '2022-11-17T16:15:12', 'payload': {'user_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'device_name': 'Fit Watch Pro', 'heart_rate': 180, 'date_created': '2022-11-17 16:15:12.419440', 'recording_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'trace_time': '2022-11-17 16:15:12.419450', 'trace_id': '11b0ec3e-66d6-11ed-98bf-a50334f30197'}}
+2022-11-17 20:08:43,582 - basicLogger - INFO - Connecting to DB. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:3306
+2022-11-17 20:08:43,624 - basicLogger - INFO - Connecting to DB. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:3306
+2022-11-17 20:08:44,083 - basicLogger - INFO - Message: {'type': 'exercise_data', 'datetime': '2022-11-17T16:15:12', 'payload': {'user_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'device_name': 'Fit Watch Pro', 'heart_rate': 180, 'date_created': '2022-11-17 16:15:12.419440', 'recording_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'trace_time': '2022-11-17 16:15:12.419450', 'trace_id': '11b0ec3e-66d6-11ed-98bf-a50334f30197'}}
+2022-11-17 20:12:07,299 - basicLogger - INFO - Connecting to DB. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:3306
+2022-11-17 20:12:07,344 - basicLogger - INFO - Connecting to DB. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:3306
+2022-11-17 20:12:22,008 - basicLogger - INFO - Message: {'type': 'exercise_data', 'datetime': '2022-11-17T20:12:21', 'payload': {'user_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'device_name': 'Fit Watch Pro', 'heart_rate': 180, 'date_created': '2022-11-17 20:12:21.826237', 'recording_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'trace_time': '2022-11-17 20:12:21.826257', 'trace_id': '33231588-66f7-11ed-8091-a77ed70824b2'}}
+2022-11-17 20:12:46,799 - basicLogger - INFO - Connecting to DB. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:3306
+2022-11-17 20:12:46,848 - basicLogger - INFO - Connecting to DB. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:3306
+2022-11-17 20:12:47,323 - basicLogger - INFO - Message: {'type': 'exercise_data', 'datetime': '2022-11-17T20:12:21', 'payload': {'user_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'device_name': 'Fit Watch Pro', 'heart_rate': 180, 'date_created': '2022-11-17 20:12:21.826237', 'recording_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'trace_time': '2022-11-17 20:12:21.826257', 'trace_id': '33231588-66f7-11ed-8091-a77ed70824b2'}}
+2022-11-17 20:14:21,666 - basicLogger - INFO - Connecting to DB. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:3306
+2022-11-17 20:14:21,714 - basicLogger - INFO - Connecting to DB. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:3306
+2022-11-17 20:14:36,681 - basicLogger - INFO - Message: {'type': 'exercise_data', 'datetime': '2022-11-17T20:14:36', 'payload': {'user_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'device_name': 'Fit Watch Pro', 'heart_rate': 180, 'date_created': '2022-11-17 20:14:36.587564', 'recording_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'trace_time': '2022-11-17 20:14:36.587575', 'trace_id': '83670892-66f7-11ed-8091-a77ed70824b2'}}
+2022-11-17 20:18:43,388 - basicLogger - INFO - Connecting to DB. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:3306
+2022-11-17 20:18:43,447 - basicLogger - INFO - Connecting to DB. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:3306
+2022-11-17 20:18:52,927 - basicLogger - INFO - Message: {'type': 'exercise_data', 'datetime': '2022-11-17T20:18:52', 'payload': {'user_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'device_name': 'Fit Watch Pro', 'heart_rate': 180, 'date_created': '2022-11-17 20:18:52.818136', 'recording_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'trace_time': '2022-11-17 20:18:52.818147', 'trace_id': '1c20b740-66f8-11ed-8091-a77ed70824b2'}}
+2022-11-17 20:21:36,133 - basicLogger - INFO - Connecting to DB. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:3306
+2022-11-17 20:21:36,184 - basicLogger - INFO - Connecting to DB. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:3306
+2022-11-17 20:21:36,682 - basicLogger - INFO - Message: {'type': 'exercise_data', 'datetime': '2022-11-17T20:18:52', 'payload': {'user_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'device_name': 'Fit Watch Pro', 'heart_rate': 180, 'date_created': '2022-11-17 20:18:52.818136', 'recording_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'trace_time': '2022-11-17 20:18:52.818147', 'trace_id': '1c20b740-66f8-11ed-8091-a77ed70824b2'}}
+2022-11-17 20:21:37,245 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 1c20b740-66f8-11ed-8091-a77ed70824b2
+2022-11-17 20:21:37,286 - basicLogger - INFO - Message: {'type': 'exercise_data', 'datetime': '2022-11-17T20:18:52', 'payload': {'user_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'device_name': 'Fit Watch Pro', 'heart_rate': 180, 'date_created': '2022-11-17 20:18:52.818136', 'recording_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'trace_time': '2022-11-17 20:18:52.818147', 'trace_id': '1c20b740-66f8-11ed-8091-a77ed70824b2'}}
+2022-11-17 20:21:37,448 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 1c20b740-66f8-11ed-8091-a77ed70824b2
+2022-11-17 20:21:37,492 - basicLogger - INFO - Message: {'type': 'exercise_data', 'datetime': '2022-11-17T20:18:52', 'payload': {'user_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'device_name': 'Fit Watch Pro', 'heart_rate': 180, 'date_created': '2022-11-17 20:18:52.818136', 'recording_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'trace_time': '2022-11-17 20:18:52.818147', 'trace_id': '1c20b740-66f8-11ed-8091-a77ed70824b2'}}
+2022-11-17 20:21:37,650 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 1c20b740-66f8-11ed-8091-a77ed70824b2
+2022-11-17 20:21:37,691 - basicLogger - INFO - Message: {'type': 'exercise_data', 'datetime': '2022-11-17T20:18:52', 'payload': {'user_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'device_name': 'Fit Watch Pro', 'heart_rate': 180, 'date_created': '2022-11-17 20:18:52.818136', 'recording_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'trace_time': '2022-11-17 20:18:52.818147', 'trace_id': '1c20b740-66f8-11ed-8091-a77ed70824b2'}}
+2022-11-17 20:21:37,854 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 1c20b740-66f8-11ed-8091-a77ed70824b2
+2022-11-17 20:21:37,896 - basicLogger - INFO - Message: {'type': 'exercise_data', 'datetime': '2022-11-17T20:18:52', 'payload': {'user_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'device_name': 'Fit Watch Pro', 'heart_rate': 180, 'date_created': '2022-11-17 20:18:52.818136', 'recording_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'trace_time': '2022-11-17 20:18:52.818147', 'trace_id': '1c20b740-66f8-11ed-8091-a77ed70824b2'}}
+2022-11-17 20:21:38,054 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 1c20b740-66f8-11ed-8091-a77ed70824b2
+2022-11-17 20:21:38,095 - basicLogger - INFO - Message: {'type': 'exercise_data', 'datetime': '2022-11-17T20:18:52', 'payload': {'user_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'device_name': 'Fit Watch Pro', 'heart_rate': 180, 'date_created': '2022-11-17 20:18:52.818136', 'recording_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'trace_time': '2022-11-17 20:18:52.818147', 'trace_id': '1c20b740-66f8-11ed-8091-a77ed70824b2'}}
+2022-11-17 20:21:38,255 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 1c20b740-66f8-11ed-8091-a77ed70824b2
+2022-11-17 20:21:38,295 - basicLogger - INFO - Message: {'type': 'exercise_data', 'datetime': '2022-11-17T20:18:52', 'payload': {'user_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'device_name': 'Fit Watch Pro', 'heart_rate': 180, 'date_created': '2022-11-17 20:18:52.818136', 'recording_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'trace_time': '2022-11-17 20:18:52.818147', 'trace_id': '1c20b740-66f8-11ed-8091-a77ed70824b2'}}
+2022-11-17 20:21:38,452 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 1c20b740-66f8-11ed-8091-a77ed70824b2
+2022-11-17 20:21:38,493 - basicLogger - INFO - Message: {'type': 'exercise_data', 'datetime': '2022-11-17T20:18:52', 'payload': {'user_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'device_name': 'Fit Watch Pro', 'heart_rate': 180, 'date_created': '2022-11-17 20:18:52.818136', 'recording_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'trace_time': '2022-11-17 20:18:52.818147', 'trace_id': '1c20b740-66f8-11ed-8091-a77ed70824b2'}}
+2022-11-17 20:21:38,654 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 1c20b740-66f8-11ed-8091-a77ed70824b2
+2022-11-17 20:21:38,694 - basicLogger - INFO - Message: {'type': 'exercise_data', 'datetime': '2022-11-17T20:18:52', 'payload': {'user_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'device_name': 'Fit Watch Pro', 'heart_rate': 180, 'date_created': '2022-11-17 20:18:52.818136', 'recording_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'trace_time': '2022-11-17 20:18:52.818147', 'trace_id': '1c20b740-66f8-11ed-8091-a77ed70824b2'}}
+2022-11-17 20:21:38,851 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 1c20b740-66f8-11ed-8091-a77ed70824b2
+2022-11-17 20:21:38,891 - basicLogger - INFO - Message: {'type': 'exercise_data', 'datetime': '2022-11-17T20:18:52', 'payload': {'user_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'device_name': 'Fit Watch Pro', 'heart_rate': 180, 'date_created': '2022-11-17 20:18:52.818136', 'recording_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'trace_time': '2022-11-17 20:18:52.818147', 'trace_id': '1c20b740-66f8-11ed-8091-a77ed70824b2'}}
+2022-11-17 20:21:39,050 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 1c20b740-66f8-11ed-8091-a77ed70824b2
+2022-11-17 20:22:08,493 - basicLogger - INFO - Message: {'type': 'exercise_data', 'datetime': '2022-11-17T20:22:08', 'payload': {'user_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'device_name': 'Fit Watch Pro', 'heart_rate': 180, 'date_created': '2022-11-17 20:22:08.402517', 'recording_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'trace_time': '2022-11-17 20:22:08.402529', 'trace_id': '90b4867c-66f8-11ed-8091-a77ed70824b2'}}
+2022-11-17 20:22:08,659 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 90b4867c-66f8-11ed-8091-a77ed70824b2
+2022-11-17 20:22:08,699 - basicLogger - INFO - Message: {'type': 'exercise_data', 'datetime': '2022-11-17T20:22:08', 'payload': {'user_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'device_name': 'Fit Watch Pro', 'heart_rate': 180, 'date_created': '2022-11-17 20:22:08.402517', 'recording_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'trace_time': '2022-11-17 20:22:08.402529', 'trace_id': '90b4867c-66f8-11ed-8091-a77ed70824b2'}}
+2022-11-17 20:22:08,856 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 90b4867c-66f8-11ed-8091-a77ed70824b2
+2022-11-17 20:22:08,896 - basicLogger - INFO - Message: {'type': 'exercise_data', 'datetime': '2022-11-17T20:22:08', 'payload': {'user_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'device_name': 'Fit Watch Pro', 'heart_rate': 180, 'date_created': '2022-11-17 20:22:08.402517', 'recording_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'trace_time': '2022-11-17 20:22:08.402529', 'trace_id': '90b4867c-66f8-11ed-8091-a77ed70824b2'}}
+2022-11-17 20:22:09,061 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 90b4867c-66f8-11ed-8091-a77ed70824b2
+2022-11-17 20:22:09,101 - basicLogger - INFO - Message: {'type': 'exercise_data', 'datetime': '2022-11-17T20:22:08', 'payload': {'user_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'device_name': 'Fit Watch Pro', 'heart_rate': 180, 'date_created': '2022-11-17 20:22:08.402517', 'recording_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'trace_time': '2022-11-17 20:22:08.402529', 'trace_id': '90b4867c-66f8-11ed-8091-a77ed70824b2'}}
+2022-11-17 20:22:09,259 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 90b4867c-66f8-11ed-8091-a77ed70824b2
+2022-11-17 20:22:09,299 - basicLogger - INFO - Message: {'type': 'exercise_data', 'datetime': '2022-11-17T20:22:08', 'payload': {'user_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'device_name': 'Fit Watch Pro', 'heart_rate': 180, 'date_created': '2022-11-17 20:22:08.402517', 'recording_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'trace_time': '2022-11-17 20:22:08.402529', 'trace_id': '90b4867c-66f8-11ed-8091-a77ed70824b2'}}
+2022-11-17 20:22:09,456 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 90b4867c-66f8-11ed-8091-a77ed70824b2
+2022-11-17 20:22:09,496 - basicLogger - INFO - Message: {'type': 'exercise_data', 'datetime': '2022-11-17T20:22:08', 'payload': {'user_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'device_name': 'Fit Watch Pro', 'heart_rate': 180, 'date_created': '2022-11-17 20:22:08.402517', 'recording_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'trace_time': '2022-11-17 20:22:08.402529', 'trace_id': '90b4867c-66f8-11ed-8091-a77ed70824b2'}}
+2022-11-17 20:22:09,654 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 90b4867c-66f8-11ed-8091-a77ed70824b2
+2022-11-17 20:22:09,694 - basicLogger - INFO - Message: {'type': 'exercise_data', 'datetime': '2022-11-17T20:22:08', 'payload': {'user_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'device_name': 'Fit Watch Pro', 'heart_rate': 180, 'date_created': '2022-11-17 20:22:08.402517', 'recording_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'trace_time': '2022-11-17 20:22:08.402529', 'trace_id': '90b4867c-66f8-11ed-8091-a77ed70824b2'}}
+2022-11-17 20:22:09,852 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 90b4867c-66f8-11ed-8091-a77ed70824b2
+2022-11-17 20:22:09,892 - basicLogger - INFO - Message: {'type': 'exercise_data', 'datetime': '2022-11-17T20:22:08', 'payload': {'user_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'device_name': 'Fit Watch Pro', 'heart_rate': 180, 'date_created': '2022-11-17 20:22:08.402517', 'recording_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'trace_time': '2022-11-17 20:22:08.402529', 'trace_id': '90b4867c-66f8-11ed-8091-a77ed70824b2'}}
+2022-11-17 20:22:10,051 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 90b4867c-66f8-11ed-8091-a77ed70824b2
+2022-11-17 20:22:10,091 - basicLogger - INFO - Message: {'type': 'exercise_data', 'datetime': '2022-11-17T20:22:08', 'payload': {'user_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'device_name': 'Fit Watch Pro', 'heart_rate': 180, 'date_created': '2022-11-17 20:22:08.402517', 'recording_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'trace_time': '2022-11-17 20:22:08.402529', 'trace_id': '90b4867c-66f8-11ed-8091-a77ed70824b2'}}
+2022-11-17 20:22:10,252 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 90b4867c-66f8-11ed-8091-a77ed70824b2
+2022-11-17 20:22:10,293 - basicLogger - INFO - Message: {'type': 'exercise_data', 'datetime': '2022-11-17T20:22:08', 'payload': {'user_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'device_name': 'Fit Watch Pro', 'heart_rate': 180, 'date_created': '2022-11-17 20:22:08.402517', 'recording_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'trace_time': '2022-11-17 20:22:08.402529', 'trace_id': '90b4867c-66f8-11ed-8091-a77ed70824b2'}}
+2022-11-17 20:22:10,451 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 90b4867c-66f8-11ed-8091-a77ed70824b2
+2022-11-17 20:25:43,107 - basicLogger - INFO - Message: {'type': 'exercise_data', 'datetime': '2022-11-17T20:25:43', 'payload': {'user_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'device_name': 'Fit Watch Pro', 'heart_rate': 180, 'date_created': '2022-11-17 20:25:43.056873', 'recording_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'trace_time': '2022-11-17 20:25:43.056898', 'trace_id': '10a6307e-66f9-11ed-8091-a77ed70824b2'}}
+2022-11-17 20:25:43,265 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 10a6307e-66f9-11ed-8091-a77ed70824b2
+2022-11-17 20:25:54,960 - basicLogger - INFO - Message: {'type': 'exercise_data', 'datetime': '2022-11-17T20:25:54', 'payload': {'user_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'device_name': 'Fit Watch Pro', 'heart_rate': 180, 'date_created': '2022-11-17 20:25:54.901573', 'recording_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'trace_time': '2022-11-17 20:25:54.901585', 'trace_id': '17b58a2c-66f9-11ed-8091-a77ed70824b2'}}
+2022-11-17 20:25:55,119 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 17b58a2c-66f9-11ed-8091-a77ed70824b2
+2022-11-17 21:09:36,819 - basicLogger - INFO - Connecting to DB. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:3306
+2022-11-17 21:09:36,819 - basicLogger - INFO - Connecting to Kafka. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:9092
+2022-11-17 21:09:36,862 - basicLogger - INFO - Connecting to DB. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:3306
+2022-11-17 21:09:36,862 - basicLogger - INFO - Connecting to Kafka. Hostname:acit-3855-matt-kafka.westus3.cloudapp.azure.com, Port:9092
+2022-11-17 21:10:14,252 - basicLogger - INFO - Message: {'type': 'exercise_data', 'datetime': '2022-11-17T21:10:14', 'payload': {'user_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'device_name': 'Fit Watch Pro', 'heart_rate': 180, 'date_created': '2022-11-17 21:10:14.210086', 'recording_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'trace_time': '2022-11-17 21:10:14.210099', 'trace_id': '48c7d146-66ff-11ed-8091-a77ed70824b2'}}
+2022-11-17 21:10:14,835 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 48c7d146-66ff-11ed-8091-a77ed70824b2
+2022-11-17 21:10:42,668 - basicLogger - INFO - Message: {'type': 'exercise_data', 'datetime': '2022-11-17T21:10:42', 'payload': {'user_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'device_name': 'Fit Watch Pro', 'heart_rate': 180, 'date_created': '2022-11-17 21:10:42.626851', 'recording_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'trace_time': '2022-11-17 21:10:42.626862', 'trace_id': '59b7df6e-66ff-11ed-8091-a77ed70824b2'}}
+2022-11-17 21:10:42,828 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of 59b7df6e-66ff-11ed-8091-a77ed70824b2
+2022-11-17 21:14:54,250 - basicLogger - INFO - Message: {'type': 'exercise_data', 'datetime': '2022-11-17T21:14:54', 'payload': {'user_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'device_name': 'Fit Watch Pro', 'heart_rate': 180, 'date_created': '2022-11-17 21:14:54.209636', 'recording_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'trace_time': '2022-11-17 21:14:54.209645', 'trace_id': 'efac5a72-66ff-11ed-8091-a77ed70824b2'}}
+2022-11-17 21:14:54,410 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of efac5a72-66ff-11ed-8091-a77ed70824b2
+2022-11-17 21:16:23,824 - basicLogger - INFO - Message: {'type': 'user_parameters', 'datetime': '2022-11-17T21:16:23', 'payload': {'user_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'age': 22, 'weight': 175, 'device_name': 'Fit Watch Pro', 'exercise': 'jump rope', 'reps': 61, 'met': 11.8, 'date_created': '2022-11-17 21:16:23.781741', 'recording_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'trace_time': '2022-11-17 21:16:23.781764', 'trace_id': '250ffb56-6700-11ed-8091-a77ed70824b2'}}
+2022-11-17 21:16:23,989 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 250ffb56-6700-11ed-8091-a77ed70824b2
+2022-11-17 21:16:41,387 - basicLogger - INFO - Message: {'type': 'user_parameters', 'datetime': '2022-11-17T21:16:41', 'payload': {'user_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'age': 22, 'weight': 175, 'device_name': 'Fit Watch Pro', 'exercise': 'jump rope', 'reps': 61, 'met': 11.8, 'date_created': '2022-11-17 21:16:41.347206', 'recording_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'trace_time': '2022-11-17 21:16:41.347217', 'trace_id': '2f884124-6700-11ed-8091-a77ed70824b2'}}
+2022-11-17 21:16:41,545 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 2f884124-6700-11ed-8091-a77ed70824b2
+2022-11-17 21:16:47,565 - basicLogger - INFO - Message: {'type': 'user_parameters', 'datetime': '2022-11-17T21:16:47', 'payload': {'user_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'age': 22, 'weight': 175, 'device_name': 'Fit Watch Pro', 'exercise': 'jump rope', 'reps': 61, 'met': 11.8, 'date_created': '2022-11-17 21:16:47.497612', 'recording_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'trace_time': '2022-11-17 21:16:47.497632', 'trace_id': '3332bb10-6700-11ed-8091-a77ed70824b2'}}
+2022-11-17 21:16:47,725 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 3332bb10-6700-11ed-8091-a77ed70824b2
+2022-11-17 21:16:53,462 - basicLogger - INFO - Message: {'type': 'user_parameters', 'datetime': '2022-11-17T21:16:53', 'payload': {'user_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'age': 22, 'weight': 175, 'device_name': 'Fit Watch Pro', 'exercise': 'jump rope', 'reps': 61, 'met': 11.8, 'date_created': '2022-11-17 21:16:53.417974', 'recording_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'trace_time': '2022-11-17 21:16:53.417992', 'trace_id': '36ba1bc0-6700-11ed-8091-a77ed70824b2'}}
+2022-11-17 21:16:53,620 - basicLogger - DEBUG - Stored event userParameters request with a trace id of 36ba1bc0-6700-11ed-8091-a77ed70824b2

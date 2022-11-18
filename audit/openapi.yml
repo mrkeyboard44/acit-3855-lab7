@@ -1,0 +1,150 @@
+openapi: 3.0.0
+info:
+  title: Audit API
+  version: 1.0.0
+  description: This is simple API for personal fitness tracking
+  contact:
+    email: mdandar@my.bcit.ca
+    
+paths:
+  /exerciseData:
+    get:
+      summary: gets an exercise data from history
+      operationId: app.get_exercise_data
+      description: Gets exercise data from the event store
+      parameters:
+        - name: index
+          in: query
+          description: Gets the ED at the index in the event store
+          schema:
+            type: integer
+            example: 100
+      responses:
+        '200':
+          description: Successfully returned a exercise data event
+          content:
+            application/json:
+              schema:
+                type: object
+                items:
+                  $ref: '#/components/schemas/trackerEvent'
+        '400':
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+        '404':
+          description: Not Found
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+  /userParameters:
+    get:
+      summary: gets user parameters from history
+      operationId: app.get_user_parameters
+      description: Gets user parameters from the event store
+      parameters:
+        - name: index
+          in: query
+          description: Gets the UP at the index in the event store
+          schema:
+            type: integer
+            example: 100
+      responses:
+        '200':
+          description: Successfully returned a user parameters event
+          content:
+            application/json:
+              schema:
+                type: object
+                items:
+                  $ref: '#/components/schemas/userParametersEvent'
+        '400':
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+        '404':
+          description: Not Found
+      
+components:
+  schemas:
+    trackerEvent:
+      required:
+      - user_id
+      - device_name
+      - heart_rate
+      - date_time
+      - recording_id
+      type: object
+      properties:
+        user_id:
+          type: string
+          example: c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6
+        device_name:
+          type: string
+          example: Fit Watch Pro
+        heart_rate:
+          type: integer
+          example: 180
+        date_time:
+          type: string
+          format: date-time
+          example: "2022-09-29 16:35:47.001901"
+        recording_id:
+          type: string
+          example: c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6
+    userParametersEvent:
+      required:
+      - user_id
+      - age
+      - weight
+      - device_name
+      - exercise
+      - reps
+      - met
+      - date_time
+      - recording_id
+      type: object
+      properties:
+        user_id:
+          type: string
+          example: c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6
+        age:
+          type: integer
+          example: 22
+        weight:
+          type: integer
+          example: 175
+        device_name:
+          type: string
+          example: Fit Watch Pro
+        exercise:
+          type: string
+          example: jump rope
+        reps:
+          type: integer
+          example: 61
+        met:
+          type: number
+          example: 11.8
+        date_time:
+          type: string
+          format: date-time
+          example: "2022-09-29 16:35:47.001901"
+        recording_id:
+          type: string
+          example: c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6
+    

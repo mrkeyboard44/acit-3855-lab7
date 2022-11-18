@@ -1,0 +1,125 @@
+---
+openapi: 3.0.0
+info:
+  title: Reading API
+  description: This is simple API for personal fitness tracking
+  contact:
+    email: mdandar@my.bcit.ca
+  license:
+    name: Apache 2.0
+    url: http://www.apache.org/licenses/LICENSE-2.0.html
+  version: 1.0.0
+servers:
+- url: 'http://localhost:8080'
+  description: SwaggerHub API Auto Mocking
+tags:
+- name: Fitness trackers
+  description: Collection of data related to physical activity
+- name: Fitness information
+  description: Derived fitness information from phyiscal activity data
+paths:
+  /exerciseData:
+    post:
+      tags:
+      - tracker_data
+      summary: data related to physcial activity
+      description: adds repetition, BPM, and datetime information to the system
+      operationId: app.report_exercise_data
+      requestBody:
+        description: Collecting physical activity data
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/trackerEvent'
+      responses:
+        "201":
+          description: item created
+        "400":
+          description: invalid input, object invalid  
+  /userParameters:
+    post:
+      tags:
+      - User_information exercise_type
+      summary: Collects user information and the exercise type to be calculated for physical activity information.
+      description: Adds user information and exercise type to system
+      operationId: app.report_user_parameters
+      requestBody:
+        description: Collecting user data and exercise type
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/userParametersEvent'
+      responses:
+        "201":
+          description: item created
+        "400":
+          description: invalid input, object invalid
+components:
+  schemas:
+    trackerEvent:
+      required:
+      - user_id
+      - device_name
+      - heart_rate
+      - date_time
+      - recording_id
+      type: object
+      properties:
+        user_id:
+          type: string
+          example: c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6
+        device_name:
+          type: string
+          example: Fit Watch Pro
+        heart_rate:
+          type: integer
+          example: 180
+        date_time:
+          type: string
+          format: date-time
+          example: "2022-09-29 16:35:47.001901"
+        recording_id:
+          type: string
+          example: c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6
+    userParametersEvent:
+      required:
+      - user_id
+      - age
+      - weight
+      - device_name
+      - exercise
+      - reps
+      - met
+      - date_time
+      - recording_id
+      type: object
+      properties:
+        user_id:
+          type: string
+          example: c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6
+        age:
+          type: integer
+          example: 22
+        weight:
+          type: integer
+          example: 175
+        device_name:
+          type: string
+          example: Fit Watch Pro
+        exercise:
+          type: string
+          example: jump rope
+        reps:
+          type: integer
+          example: 61
+        met:
+          type: number
+          example: 11.8
+        date_time:
+          type: string
+          format: date-time
+          example: "2022-09-29 16:35:47.001901"
+        recording_id:
+          type: string
+          example: c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6
+    
