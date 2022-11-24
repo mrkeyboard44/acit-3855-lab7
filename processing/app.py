@@ -279,10 +279,8 @@ with open('log_conf.yaml', 'r') as f:
 
 logger = logging.getLogger('basicLogger')
 
-app = connexion.FlaskApp(__name__, specification_dir='')
-app.add_api("openapi.yaml", strict_validation=True, validate_responses=True)
-
 app = connexion.FlaskApp(__name__, specification_dir='stats/')
+app.add_api("openapi.yaml", strict_validation=True, validate_responses=True)
 CORS(app.app)
 app.app.config['CORS_HEADERS'] = 'Content-Type'
 
