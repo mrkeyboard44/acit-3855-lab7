@@ -12,6 +12,9 @@ import logging
 from apscheduler.schedulers.background import BackgroundScheduler
 import datetime
 
+from flask_cors import CORS, cross_origin
+
+
 with open('app_conf.yaml', 'r') as f:
     app_config = yaml.safe_load(f.read())
 
@@ -278,6 +281,10 @@ logger = logging.getLogger('basicLogger')
 
 app = connexion.FlaskApp(__name__, specification_dir='')
 app.add_api("openapi.yaml", strict_validation=True, validate_responses=True)
+
+app = connexion.FlaskApp(__name__, specification_dir='stats/')
+CORS(app.app)
+app.app.config['CORS_HEADERS'] = 'Content-Type'
 
 if __name__ == "__main__":
     # run our standalone gevent server
