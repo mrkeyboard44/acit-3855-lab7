@@ -65,6 +65,7 @@ services:
   processing:
     build: ../processing/
     restart: always
+    hostname: processing
     ports:
       - "8100:8100"
     depends_on:
@@ -78,6 +79,14 @@ services:
       - "8110:8110"
     depends_on:
       - kafka
+
+  dashboard:
+    image: dashboard
+    ports:
+    - "3000:3000"
+    depends_on:
+    - processing
+    - audit_log
 
 volumes:
   my-db:
