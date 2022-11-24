@@ -5,6 +5,7 @@ services:
     ports:
       - "2181"
     hostname: zookeeper
+
   kafka:
     image: wurstmeister/kafka
     command: [start-kafka.sh]
@@ -26,6 +27,7 @@ services:
   db:
     image: mysql:5.7
     restart: always
+    hostname: db
     environment:
       MYSQL_DATABASE: 'events'
       # Password for root access
@@ -46,15 +48,19 @@ services:
     ports:
       - "8080:8080"
     depends_on:
-      - "kafka"
+      - kafka
+      - storage
 
   storage:
     build: ../storage/
     restart: always
+    hostname: storage
     ports:
       - "8090:8090"
     depends_on:
-      - "kafka"
+      - kafka
+      - db
+    
   
   processing:
     build: ../processing/
@@ -62,7 +68,8 @@ services:
     ports:
       - "8100:8100"
     depends_on:
-      - "kafka"
+      - kafka
+    
 
   audit_log:
     build: ../audit_log/
@@ -70,9 +77,7 @@ services:
     ports:
       - "8110:8110"
     depends_on:
-      - "kafka"
-
-
+      - kafka
 
 volumes:
   my-db:
