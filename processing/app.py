@@ -78,7 +78,7 @@ def get_data():
 
 def create_stats():
     """Calculates Stats and returns them."""
-
+    logger.info('TESTING --------------------------------------------------------')
     data = get_data()
 
     recordings = {}
