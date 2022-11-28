@@ -46,7 +46,7 @@ services:
     image: mrkeyboard/3855-project:receiver
     restart: always
     ports:
-      - "8080:8080"
+      - "8080:8070"
     depends_on:
       - kafka
       - storage
