@@ -1,2 +1,0 @@
-@Library('ci_functions_2@main') _
-python_build('3855-project', 'audit', 8110)
