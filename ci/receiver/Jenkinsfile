@@ -1,2 +1,2 @@
 @Library('ci_functions_2@main') _
-python_build('3855_Project', 'receiver', 8080)
+python_build('3855-project', 'receiver', 8080)
