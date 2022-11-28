@@ -1,20 +1,19 @@
-
-import connexion
-from connexion import NoContent
+"""storage module receives events from reciever and stores in db"""
+import json
+import logging
+import logging.config
+from threading import Thread
+import datetime
 import yaml
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
+from pykafka import KafkaClient
+from pykafka.common import OffsetType
+import connexion
+from connexion import NoContent
 from exercise_data import ExerciseData
 from user_parameters import UserParameters
-import json
-from pykafka import KafkaClient 
-from pykafka.common import OffsetType 
-from threading import Thread 
-
 from base import Base
-import logging
-import logging.config
-import datetime
 
 with open('app_conf.yml', 'r') as f:
     app_config = yaml.safe_load(f.read())
@@ -79,7 +78,7 @@ def report_exercise_data(body):
 
     return NoContent, 201
 
-def get_exercise_data(timestamp):
+def get_exercise_data(timestamp: tuple[any]):
     session = DB_SESSION()
 
     timestamp_datetime = datetime.datetime.strptime(timestamp, "%Y-%m-%d %H:%M:%S.%f")
@@ -124,12 +123,14 @@ def report_user_parameters(body):
 
     return NoContent, 201
 
-def get_user_parameters(timestamp):
+def get_user_parameters(timestamp: tuple[any]):
     session = DB_SESSION()
 
     timestamp_datetime = datetime.datetime.strptime(timestamp, "%Y-%m-%d %H:%M:%S.%f")
 
-    readings = session.query(UserParameters).filter(UserParameters.date_created >= timestamp_datetime)
+    readings = session.query(UserParameters)\
+        .filter(UserParameters.date_created >= timestamp_datetime)
+
     results_list = []
 
     for reading in readings:
@@ -184,4 +185,4 @@ if __name__ == "__main__":
     t1 = Thread(target=process_messages)
     t1.setDaemon(True)
     t1.start()
-    app.run(port=8090)  
+    app.run(port=8090)

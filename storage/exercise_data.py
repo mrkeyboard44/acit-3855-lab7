@@ -1,6 +1,6 @@
+"""checks data types before being formatted for db query"""
 from sqlalchemy import Column, Integer, String, DateTime
 from base import Base
-import datetime
 
 
 class ExerciseData(Base):

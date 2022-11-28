@@ -1,6 +1,6 @@
-from sqlalchemy import Column, Integer, String, Float, DateTime
+"""checks data types before being formatted for db query"""
+from sqlalchemy import Column, Integer, String, Float
 from base import Base
-import datetime
 
 
 class UserParameters(Base):

@@ -1,3 +1,4 @@
+"""creates table in mysql"""
 import mysql.connector
 import yaml
 
