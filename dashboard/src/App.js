@@ -4,6 +4,8 @@ import './App.css';
 import EndpointAudit from './components/EndpointAudit'
 import AppStats from './components/AppStats'
 
+const [index, setIndex] = useState(null);
+
 function App() {
 
     const endpoints = ["exerciseData", "userParameters"]
