@@ -3,9 +3,7 @@ import './App.css';
 
 import EndpointAudit from './components/EndpointAudit'
 import AppStats from './components/AppStats'
-import { useState } from 'react';
 
-const [index, setIndex] = useState(null);
 
 function App() {
 
