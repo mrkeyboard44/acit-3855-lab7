@@ -99,6 +99,7 @@ def create_stats():
     #Organize Exercise Data into a Dict called 'recordings'
     if data['exercise_data'] != []:
         for event in data['exercise_data']:
+            print('event', event)
             if 'trace_id' in event:
                 trace_id = event['trace_id']
                 logger.debug(f'Stored event exerciseData request with a trace id of {trace_id}')
