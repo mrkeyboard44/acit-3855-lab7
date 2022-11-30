@@ -5,7 +5,7 @@ import logging.config
 from threading import Thread
 import datetime
 import yaml
-from sqlalchemy import create_engine
+from sqlalchemy import create_engine, and_
 from sqlalchemy.orm import sessionmaker
 from pykafka import KafkaClient
 from pykafka.common import OffsetType
@@ -14,6 +14,7 @@ from connexion import NoContent
 from exercise_data import ExerciseData
 from user_parameters import UserParameters
 from base import Base
+
 
 with open('app_conf.yml', 'r') as f:
     app_config = yaml.safe_load(f.read())
@@ -78,12 +79,15 @@ def report_exercise_data(body):
 
     return NoContent, 201
 
-def get_exercise_data(timestamp: tuple[any]):
+def get_exercise_data(start_timestamp: tuple[any], end_timestamp: tuple[any]):
     session = DB_SESSION()
 
-    timestamp_datetime = datetime.datetime.strptime(timestamp, "%Y-%m-%d %H:%M:%S.%f")
+    start_timestamp_datetime = datetime.datetime.strptime(start_timestamp, "%Y-%m-%d %H:%M:%S.%f")
+    end_timestamp_datetime = datetime.datetime.strptime(end_timestamp, "%Y-%m-%d %H:%M:%S.%f")
 
-    readings = session.query(ExerciseData).filter(ExerciseData.date_created >= timestamp_datetime)
+    readings = session.query(ExerciseData).filter(
+        and_(ExerciseData.date_created >= start_timestamp_datetime,
+            ExerciseData.date_created < end_timestamp_datetime))
 
     results_list = []
 
@@ -91,7 +95,7 @@ def get_exercise_data(timestamp: tuple[any]):
         results_list.append(reading.to_dict())
     session.close()
 
-    logger.info("Query for Exercise Data %s returns %d results" % (timestamp, len(results_list)))
+    logger.info("Query for Exercise Data from %s to %s returns %d results" % (start_timestamp, end_timestamp, len(results_list)))
 
     return results_list, 200
 
@@ -123,13 +127,15 @@ def report_user_parameters(body):
 
     return NoContent, 201
 
-def get_user_parameters(timestamp: tuple[any]):
+def get_user_parameters(start_timestamp: tuple[any], end_timestamp: tuple[any]):
     session = DB_SESSION()
 
-    timestamp_datetime = datetime.datetime.strptime(timestamp, "%Y-%m-%d %H:%M:%S.%f")
+    start_timestamp_datetime = datetime.datetime.strptime(start_timestamp, "%Y-%m-%d %H:%M:%S.%f")
+    end_timestamp_datetime = datetime.datetime.strptime(end_timestamp, "%Y-%m-%d %H:%M:%S.%f")
 
-    readings = session.query(UserParameters)\
-        .filter(UserParameters.date_created >= timestamp_datetime)
+    readings = session.query(UserParameters).filter(
+        and_(UserParameters.date_created >= start_timestamp_datetime,
+            UserParameters.date_created < end_timestamp_datetime))
 
     results_list = []
 
@@ -137,7 +143,7 @@ def get_user_parameters(timestamp: tuple[any]):
         results_list.append(reading.to_dict())
     session.close()
 
-    logger.info("Query for User Parameters %s returns %d results" % (timestamp, len(results_list)))
+    logger.info("Query for User Parameters from %s to %s returns %d results" % (start_timestamp, end_timestamp, len(results_list)))
 
     return results_list, 200
 

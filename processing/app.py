@@ -58,9 +58,11 @@ def get_data():
     dt_time = '%3A'.join(last_dt.strftime("%H-%M-%S").split('-'))
     dt_mlsec = last_dt.strftime("%f")
     dt_string = f"{dt_date}%20{dt_time}.{dt_mlsec}"
+    current_time = datetime.datetime.now()
+    print(current_time)
     #dt_string example = 2022-10-27%2023%3A56%3A17.575232
 
-    res1 = requests.get(f'{STORAGE_SERVICE_URL}/exerciseData?timestamp={dt_string}')
+    res1 = requests.get(f'{STORAGE_SERVICE_URL}/exerciseData?start_timestamp={dt_string}&end_timestamp={}')
     res2 = requests.get(f'{STORAGE_SERVICE_URL}/userParameters?timestamp={dt_string}')
     
     if res1.status_code != 200:
