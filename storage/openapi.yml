@@ -43,13 +43,20 @@ paths:
       description: returns timestamp of a post.
       operationId: app.get_exercise_data
       parameters:
-        - name: timestamp
+        - name: start_timestamp
           in: query
           description: limits the number of items on a page
           schema:
             type: string
             format: date-time
             example: "2022-09-29 16:35:47.001901"
+        - name: end_timestamp
+          in: query
+          description: limits the number of items on a page
+          schema:
+            type: string
+            format: date-time
+            example: "2022-12-29 16:35:47.001901"
       responses:
         '200':
           description: Successfully returned a list of Physical Activity
@@ -93,13 +100,20 @@ paths:
       operationId: app.get_user_parameters
       description: returns user information and exercise type to system
       parameters:
-        - name: timestamp
+        - name: start_timestamp
           in: query
-          description: returns timestamp of a post.
+          description: limits the number of items on a page
           schema:
             type: string
             format: date-time
             example: "2022-09-29 16:35:47.001901"
+        - name: end_timestamp
+          in: query
+          description: limits the number of items on a page
+          schema:
+            type: string
+            format: date-time
+            example: "2022-12-29 16:35:47.001901"
       responses:
         '200':
           description: Succusfully return a list of Exercise Parameters
