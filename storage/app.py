@@ -127,7 +127,7 @@ def report_user_parameters(body):
 
     return NoContent, 201
 
-def get_user_parameters(start_timestamp: tuple[any], end_timestamp: tuple[any]):
+def get_user_parameters(start_timestamp, end_timestamp):
     session = DB_SESSION()
 
     start_timestamp_datetime = datetime.datetime.strptime(start_timestamp, "%Y-%m-%d %H:%M:%S.%f")
@@ -160,6 +160,7 @@ def process_messages():
     consumer = topic.get_simple_consumer(consumer_group=b'event_group',
                                         reset_offset_on_start=False,
                                         auto_offset_reset=OffsetType.LATEST)
+    print('consumer', consumer)
     # This is blocking - it will wait for a new message
     for msg in consumer:
         print('recieved!')

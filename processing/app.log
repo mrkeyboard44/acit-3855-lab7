@@ -2268,3 +2268,6 @@
 2022-10-31 00:23:27,694 - basicLogger - DEBUG - Stored event exerciseData request with a trace id of e706f830-58ec-11ed-be91-97742393551a
 2022-10-31 00:23:27,694 - basicLogger - DEBUG - updated statistics values {'recording_id': 'c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6', 'total_recordings': 2, 'max_heart_rate': 180, 'min_heart_rate': 180, 'total_reps': 'N/A', 'calories_burned': 'N/A', 'last_updated': datetime.datetime(2022, 10, 31, 0, 23, 27, 694796)}
 2022-10-31 00:23:27,707 - basicLogger - INFO - Periodic Processing Has Ended
+2022-11-30 14:56:46,971 - basicLogger - INFO - Start Periodic Processing
+2022-11-30 14:56:46,971 - basicLogger - INFO - TESTING --------------------------------------------------------
+2022-11-30 14:56:46,988 - basicLogger - INFO - Last updated scanned is 2022-10-31 00:23:27.694796

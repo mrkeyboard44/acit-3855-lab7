@@ -47,23 +47,32 @@ def get_stats():
         logger.info('Request Success!')
         return results_list[0], 200
          
+def date_to_string(date):
+    dt_date = date.strftime("%Y-%m-%d")
+    dt_time = '%3A'.join(date.strftime("%H-%M-%S").split('-'))
+    dt_mlsec = date.strftime("%f")
+    dt_string = f"{dt_date}%20{dt_time}.{dt_mlsec}"
+    return dt_string
 
 def get_data():
     """Gets most recent datetime value from Stats DB.
     Then requests Storage Service for events since that time."""
 
     last_dt = get_last_updated_from_db()
-
-    dt_date = last_dt.strftime("%Y-%m-%d")
-    dt_time = '%3A'.join(last_dt.strftime("%H-%M-%S").split('-'))
-    dt_mlsec = last_dt.strftime("%f")
-    dt_string = f"{dt_date}%20{dt_time}.{dt_mlsec}"
     current_time = datetime.datetime.now()
+
+    start_dt_string = date_to_string(last_dt)
+    end_dt_string = date_to_string(current_time)
     print(current_time)
     #dt_string example = 2022-10-27%2023%3A56%3A17.575232
 
-    res1 = requests.get(f'{STORAGE_SERVICE_URL}/exerciseData?start_timestamp={dt_string}&end_timestamp={}')
-    res2 = requests.get(f'{STORAGE_SERVICE_URL}/userParameters?timestamp={dt_string}')
+    res1 = requests.get(
+        f'{STORAGE_SERVICE_URL}/exerciseData?start_timestamp={start_dt_string}&end_timestamp={end_dt_string}'
+    )
+        
+    res2 = requests.get(
+        f'{STORAGE_SERVICE_URL}/userParameters?start_timestamp={start_dt_string}&end_timestamp={end_dt_string}'
+    )
     
     if res1.status_code != 200:
         logger.error(f'Request from Storage -> exercise_data returned error: {res1.status_code}')
