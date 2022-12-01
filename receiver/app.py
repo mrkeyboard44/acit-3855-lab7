@@ -53,7 +53,22 @@ def report_exercise_data(body):
         "datetime" : datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S"),
         "payload": payload }
     msg_str = json.dumps(msg)
-    producer.produce(msg_str.encode('utf-8'))
+
+    disconnected = True
+
+    while disconnected:
+        try:
+            producer.produce(msg_str.encode('utf-8'))
+            disconnected = False
+            logger.info('Connected to Kafka!')
+        except:
+            producer = topic.get_producer()
+            producer.stop()
+            producer.start()
+            disconnected = True
+            # producer.produce(msg_str.encode('utf-8'))
+            logger.error("Couldn't connect to Kafka. Trying again...")
+
     
     return NoContent, 201
 
@@ -83,7 +98,21 @@ def report_user_parameters(body):
         "datetime" : datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S"),
         "payload": payload }
     msg_str = json.dumps(msg)
-    producer.produce(msg_str.encode('utf-8'))
+
+    disconnected = True
+
+    while disconnected:
+        try:
+            producer.produce(msg_str.encode('utf-8'))
+            disconnected = False
+            logger.info('Connected to Kafka!')
+        except:
+            producer = topic.get_producer()
+            producer.stop()
+            producer.start()
+            disconnected = True
+            # producer.produce(msg_str.encode('utf-8'))
+            logger.error("Couldn't connect to Kafka. Trying again...")
 
     return NoContent, 201
 
