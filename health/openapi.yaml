@@ -38,8 +38,6 @@ components:
       - processing
       - audit_log
       - last_update
-      - calories_burned
-      - last_updated
       properties:
         receiver:
           type: string
