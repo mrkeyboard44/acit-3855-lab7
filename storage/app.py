@@ -159,13 +159,13 @@ def process_messages():
     # Create a consume on a consumer group, that only reads new messages
     # (uncommitted messages) when the service re-starts (i.e., it doesn't
     # read all the old messages from the history in the message queue).
-    consumer = topic.get_simple_consumer(consumer_group=b'event_group',
                                         reset_offset_on_start=False,
                                         auto_offset_reset=OffsetType.LATEST)
     disconnected = True
     while disconnected:
         try:
-            consumer.consume()
+            consumer = topic.get_simple_consumer(consumer_group=b'event_group',
+            # consumer.consume()
             disconnected = False
             logger.info('Connected to Kafka!')
         except:

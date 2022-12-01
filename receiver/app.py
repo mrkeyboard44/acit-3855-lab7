@@ -30,7 +30,7 @@ logger.info(f"Connecting to Kafka. Hostname:{KAFKA_HOSTNAME}, Port:{KAFKA_PORT}"
 def report_exercise_data(body):
     client = KafkaClient(hosts=f'{KAFKA_HOSTNAME}:{KAFKA_PORT}')
     topic = client.topics[str.encode(KAFKA_TOPIC)]
-    producer = topic.get_sync_producer()
+    
 
     date_created = str(datetime.datetime.now())
 
@@ -58,11 +58,13 @@ def report_exercise_data(body):
 
     while disconnected:
         try:
+            producer = topic.get_sync_producer()
             producer.produce(msg_str.encode('utf-8'))
             disconnected = False
             logger.info('Connected to Kafka!')
         except:
-            producer = topic.get_producer()
+            # producer = topic.get_sync_producer()
+            # producer = topic.get_producer()
             producer.stop()
             producer.start()
             disconnected = True
@@ -76,7 +78,6 @@ def report_exercise_data(body):
 def report_user_parameters(body):
     client = KafkaClient(hosts=f'{KAFKA_HOSTNAME}:{KAFKA_PORT}')
     topic = client.topics[str.encode(KAFKA_TOPIC)]
-    producer = topic.get_sync_producer()
 
     date_created = str(datetime.datetime.now())
     trace_time = str(datetime.datetime.now())
@@ -103,11 +104,12 @@ def report_user_parameters(body):
 
     while disconnected:
         try:
+            producer = topic.get_sync_producer()
             producer.produce(msg_str.encode('utf-8'))
             disconnected = False
             logger.info('Connected to Kafka!')
         except:
-            producer = topic.get_producer()
+            # producer = topic.get_producer()
             producer.stop()
             producer.start()
             disconnected = True
