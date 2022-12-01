@@ -35,7 +35,7 @@ export default function EndpointAudit(props) {
         return (
             <div>
                 <h3>{props.endpoint}-{index}</h3>
-                <p id='audit'>{JSON.stringify(log).replace('{','{\n\t').replace(',', ',\n\t').replace('}', '\n}')}</p>
+                <p id='audit'>{JSON.stringify(log).replaceAll('{','{\n\t').replaceAll(',', ',\n\t').replaceAll('}', '\n}')}</p>
             </div>
         )
     }
