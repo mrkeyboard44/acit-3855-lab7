@@ -96,7 +96,7 @@ def get_user_parameters(index):
     
     return { "message": "Not Found"}, 404
 
-app = connexion.FlaskApp(__name__, specification_dir='')
+app = connexion.FlaskApp(__name__, specification_dir='/audit_log')
 app.add_api("openapi.yml", strict_validation=True, validate_responses=True)
 CORS(app.app)
 app.app.config['CORS_HEADERS'] = 'Content-Type'
