@@ -6,9 +6,7 @@ export default function EndpointHealth(props) {
     const [log, setLog] = useState(null);
     const [error, setError] = useState(null);
 	// const rand_val = Math.floor(Math.random() * 100); // Get a random event from the event store
-    const rand_val = 1
     const getHealth = () => {
-        setIndex(rand_val)
         fetch(`http://acit-3855-matt-kafka.westus3.cloudapp.azure.com/health/check`)
             .then(res => res.json())
             .then((result)=>{
@@ -33,7 +31,6 @@ export default function EndpointHealth(props) {
         
         return (
             <div className='Health'>
-                <h1>Health Check</h1>
                 <p id='Health'>{JSON.stringify(log).replaceAll('{','{\t').replaceAll(',', ',\n\t').replaceAll('}', '\t}')}</p>
             </div>
         )

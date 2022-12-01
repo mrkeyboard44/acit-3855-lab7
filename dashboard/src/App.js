@@ -23,6 +23,7 @@ function App() {
                 <AppStats/>
                 <h1>Audit Endpoints</h1>
                 {rendered_endpoints}
+                <h1>Health Checks</h1>
                 <EndpointHealth/>
             </div>
         </div>
