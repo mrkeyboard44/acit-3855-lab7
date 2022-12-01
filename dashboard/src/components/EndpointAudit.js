@@ -8,8 +8,8 @@ export default function EndpointAudit(props) {
     const [index, setIndex] = useState(null);
 	// const rand_val = Math.floor(Math.random() * 100); // Get a random event from the event store
     const rand_val = 1
-    setIndex(rand_val)
     const getAudit = () => {
+        setIndex(rand_val)
         fetch(`http://processing:8110/${props.endpoint}?index=${rand_val}`)
             .then(res => res.json())
             .then((result)=>{
@@ -17,6 +17,7 @@ export default function EndpointAudit(props) {
                 setLog(result);
                 setIsLoaded(true);
             },(error) =>{
+                console.log(error)
                 setError(error)
                 setIsLoaded(true);
             })
