@@ -45,8 +45,6 @@ logger = logging.getLogger('basicLogger')
 logger.info(f"Connecting to Kafka. Hostname:{KAFKA_HOSTNAME}, Port:{KAFKA_PORT}")
 
 def report_exercise_data(body):
-    client = KafkaClient(hosts=f'{KAFKA_HOSTNAME}:{KAFKA_PORT}')
-    topic = client.topics[str.encode(KAFKA_TOPIC)]
     
 
     date_created = str(datetime.datetime.now())
@@ -75,6 +73,8 @@ def report_exercise_data(body):
 
     while disconnected:
         try:
+            client = KafkaClient(hosts=f'{KAFKA_HOSTNAME}:{KAFKA_PORT}')
+            topic = client.topics[str.encode(KAFKA_TOPIC)]
             producer = topic.get_sync_producer()
             producer.produce(msg_str.encode('utf-8'))
             disconnected = False

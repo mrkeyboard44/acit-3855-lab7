@@ -10,10 +10,10 @@ paths:
     get:
       summary: Gets the event stats
       operationId: app.get_stats
-      description: Gets Blood Pressure and Heart Rate processsed statistics
+      description: Gets general Fitness activity processsed statistics
       responses:
         '200':
-          description: Successfully returned a list of blood pressure events
+          description: Successfully returned a list of fitness activity stats
           content:
             application/json:
               schema:
