@@ -6,7 +6,7 @@ info:
   contact:
     email: mdandar@bcit.ca
 paths:
-  /events/stats:
+  /processing/events/stats:
     get:
       summary: Gets the event stats
       operationId: app.get_stats

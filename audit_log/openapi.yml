@@ -7,7 +7,7 @@ info:
     email: mdandar@my.bcit.ca
     
 paths:
-  /exerciseData:
+  /audit_log/exerciseData:
     get:
       summary: gets an exercise data from history
       operationId: app.get_exercise_data
@@ -46,7 +46,7 @@ paths:
                 properties:
                   message:
                     type: string
-  /userParameters:
+  /audit_log/userParameters:
     get:
       summary: gets user parameters from history
       operationId: app.get_user_parameters
