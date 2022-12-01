@@ -22,7 +22,7 @@ export default function AppStats() {
             })  
     }
     useEffect(() => {
-		const interval = setInterval(() => getStats(), 2000); // Update every 2 seconds
+		const interval = setInterval(() => getStats(), 5000); // Update every 2 seconds
 		return() => clearInterval(interval);
     }, [getStats]);
 
