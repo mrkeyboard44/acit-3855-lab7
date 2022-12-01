@@ -6,7 +6,7 @@ info:
   contact:
     email: mdandar@bcit.ca
 paths:
-  /events/stats:
+  /processing/events/stats:
     get:
       summary: Gets the event stats
       operationId: app.get_stats
@@ -29,7 +29,7 @@ paths:
                 properties:
                   message:
                     type: string
-  /health:
+  /processing/health:
     get:
       summary: Get service status
       operationId: app.get_health_check

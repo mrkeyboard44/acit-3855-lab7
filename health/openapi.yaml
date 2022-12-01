@@ -6,9 +6,9 @@ info:
   contact:
     email: mdandar@bcit.ca
 paths:
-  /health:
+  /check:
     get:
-      summary: Gets the event stats
+      summary: Gets the heath status report
       operationId: app.get_health_check
       description: Gets general Fitness activity processsed statistics
       responses:

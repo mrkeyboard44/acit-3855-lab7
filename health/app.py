@@ -107,7 +107,7 @@ def get_data():
     #     f'{STORAGE_SERVICE_URL}/userParameters?start_timestamp={start_dt_string}&end_timestamp={end_dt_string}'
     # )
     res5 = requests.get(
-        f'{PROCESSING_SERVICE_URL}/healthCheck'
+        f'{PROCESSING_SERVICE_URL}/health'
     )
     # res6 = requests.get(
     #     f'f{AUDIT_LOG_SERVICE_URL}/audit_log/exerciseData?index=0'
@@ -125,8 +125,13 @@ def get_data():
     # event_count_res2 = len(res2.json())
     
     # logger.info(f'Amount of events recieved from Storage service: exercise_data: {event_count_res1} user_parameters: {event_count_res2}')
-    
-    return {'processing': res5.json()}
+    if res5.status_code == 200:
+        processing = 'Running'
+        logger.info('processor is reachable')
+    else:
+        processing = 'Unreachable'
+        logger.error('processor is unreachable')
+    return {'processing': processing}
 
 
 def populate_health():
