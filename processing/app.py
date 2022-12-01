@@ -1,4 +1,5 @@
 from unittest import result
+import os
 import connexion
 import yaml
 from sqlalchemy import create_engine
@@ -14,9 +15,20 @@ import datetime
 
 from flask_cors import CORS, cross_origin
 
+if "TARGET_ENV" in os.environ and os.environ["TARGET_ENV"] == "test":
+    print("In Test Environment")
+    app_conf_file = "/config/app_conf.yml"
 
-with open('app_conf.yaml', 'r') as f:
+else:
+    print("In Dev Environment")
+    app_conf_file = "app_conf.yml"
+    log_conf_file = "log_conf.yml"
+with open(app_conf_file, 'r') as f:
     app_config = yaml.safe_load(f.read())
+    KAFKA_HOSTNAME = app_config['events']['hostname']
+
+
+
 
 STORAGE_SERVICE_URL = app_config['eventstore']['url']
 

@@ -57,7 +57,7 @@ services:
       - "8080:8080"
     environment:
       - TARGET_ENV=test
-      volumes:
+    volumes:
       - /home/azureuser/config/receiver:/config
     depends_on:
       - kafka
