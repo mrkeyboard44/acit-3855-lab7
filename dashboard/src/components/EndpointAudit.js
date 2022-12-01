@@ -33,9 +33,9 @@ export default function EndpointAudit(props) {
     } else if (isLoaded === true){
         
         return (
-            <div>
+            <div className='audit'>
                 <h3>{props.endpoint}-{index}</h3>
-                <p id='audit'>{JSON.stringify(log).replaceAll('{','{\n\t').replaceAll(',', ',\n\t').replaceAll('}', '\n}')}</p>
+                <p id='audit'>{JSON.stringify(log).replaceAll('{','{\t').replaceAll(',', ',\n\t').replaceAll('}', '\t}')}</p>
             </div>
         )
     }
