@@ -18,7 +18,7 @@ tags:
 - name: Fitness information
   description: Derived fitness information from phyiscal activity data
 paths:
-  /exerciseData:
+  /receiver/exerciseData:
     post:
       tags:
       - tracker_data
@@ -36,7 +36,7 @@ paths:
           description: item created
         "400":
           description: invalid input, object invalid  
-  /userParameters:
+  /receiver/userParameters:
     post:
       tags:
       - User_information exercise_type

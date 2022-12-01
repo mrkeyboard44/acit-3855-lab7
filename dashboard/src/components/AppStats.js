@@ -10,7 +10,7 @@ export default function AppStats() {
 
 	const getStats = () => {
 	
-        fetch(`http://acit-3855-matt-kafka.westus3.cloudapp.azure.com:8100/events/stats`)
+        fetch(`http://acit-3855-matt-kafka.westus3.cloudapp.azure.com/audit_log/events/stats`)
             .then(res => res.json())
             .then((result)=>{
 				console.log("Received Stats")
