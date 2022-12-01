@@ -10,7 +10,7 @@ info:
     url: http://www.apache.org/licenses/LICENSE-2.0.html
   version: 1.0.0
 servers:
-- url: 'http://localhost:8080/receiver'
+- url: 'http://localhost:8080/'
   description: SwaggerHub API Auto Mocking
 tags:
 - name: Fitness trackers
@@ -18,7 +18,7 @@ tags:
 - name: Fitness information
   description: Derived fitness information from phyiscal activity data
 paths:
-  /exerciseData:
+  /receiver/exerciseData:
     post:
       tags:
       - tracker_data
@@ -75,7 +75,7 @@ paths:
                 properties:
                   message:
                     type: string      
-  /userParameters:
+  /receiver/userParameters:
     post:
       tags:
       - User_information exercise_type
