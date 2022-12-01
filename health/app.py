@@ -80,13 +80,7 @@ def get_health_check():
         logger.debug(results_list[0])
         logger.info('Request Success!')
         return results_list[0], 200
-         
-def date_to_string(date):
-    dt_date = date.strftime("%Y-%m-%d")
-    dt_time = '%3A'.join(date.strftime("%H-%M-%S").split('-'))
-    dt_mlsec = date.strftime("%f")
-    dt_string = f"{dt_date}%20{dt_time}.{dt_mlsec}"
-    return dt_string
+
 
 def get_data():
     """Gets most recent datetime value from Health DB.
@@ -95,51 +89,22 @@ def get_data():
     last_dt = get_last_updated_from_db()
     current_time = datetime.datetime.now()
 
-    start_dt_string = date_to_string(last_dt)
-    end_dt_string = date_to_string(current_time)
     print(current_time)
-    #dt_string example = 2022-10-27%2023%3A56%3A17.575232
-    # res1 = requests.get(
-    #     f'f{RECEIVER_SERVICE_URL}/audit_log/exerciseData?index=0'
-    # )
-    # res2 = requests.get(
-    #     f'f{RECEIVER_SERVICE_URL}/audit_log/exerciseData?index=0'
-    # )
-    # res3 = requests.get(
-    #     f'{STORAGE_SERVICE_URL}/exerciseData?start_timestamp={start_dt_string}&end_timestamp={end_dt_string}'
-    # )
-    # res4 = requests.get(
-    #     f'{STORAGE_SERVICE_URL}/userParameters?start_timestamp={start_dt_string}&end_timestamp={end_dt_string}'
-    # )
+
     responses = {}
     for service, url in SERVICE_COLLECTION.items():
         responses[service] = requests.get(
             f'{url}/health'
         )
-    # res6 = requests.get(
-    #     f'f{AUDIT_LOG_SERVICE_URL}/audit_log/exerciseData?index=0'
-    # )
-    # res7 = requests.get(
-    #     f'f{AUDIT_LOG_SERVICE_URL}/audit_log/userParameters?index=0'
-    # )
-    
-    # if res5.status_code != 200:
-    #     logger.error(f'Request from Storage -> exercise_data returned error: {res1.status_code}')
-    # if res2.status_code != 200:
-    #     logger.error(f'Request from Storage -> user_parameters returned error: {res2.status_code}')
-    
-    # event_count_res1 = len(res1.json())
-    # event_count_res2 = len(res2.json())
-    
-    # logger.info(f'Amount of events recieved from Storage service: exercise_data: {event_count_res1} user_parameters: {event_count_res2}')
+
     status_dict = {}
     for service, response in responses.items():
         if response.status_code == 200:
             status_dict[service] = 'Running'
-            logger.info(f'{service} is reachable')
+            logger.info(f'HEALTH CHECK: {service} is reachable')
         else:
             status_dict[service] = 'Unreachable'
-            logger.error(f'{service} is unreachable')
+            logger.error(f'HEALTH CHECK: {service} is unreachable')
     status_dict['last_update'] = datetime.datetime.now()
     return status_dict
 
@@ -165,7 +130,7 @@ def init_scheduler():
 
 def health_to_db(health):
     """Saves health check results to DB"""
-
+    logger.info('Saving update to DB')
     session = DB_SESSION()
     health = Health(health['receiver'],
         health['storage'],

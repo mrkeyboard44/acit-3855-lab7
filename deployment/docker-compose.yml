@@ -129,6 +129,21 @@ services:
     networks:
       - "api.network"
 
+  health:
+    build: ../health/
+    restart: always
+    image: health
+    ports:
+    - "8120"
+    depends_on:
+    - "receiver"
+    - "storage"
+    - "processing"
+    - "audit_log"
+    - "dashboard"
+    networks:
+      - "api.network"
+
   nginx:
     image: nginx:latest
     # Connects the conf file of the container to the conf file in our folder
@@ -141,6 +156,7 @@ services:
     - "processing"
     - "audit_log"
     - "dashboard"
+    - "health"
     # Connects the port 80 of the nginx container to localhost:80 or localhost
     ports:
     - "80:80"
