@@ -211,7 +211,8 @@ def process_messages():
         consumer.commit_offsets()
 
 
-
+def get_health_check():
+    return NoContent, 200
 
 
 app = connexion.FlaskApp(__name__, specification_dir='')

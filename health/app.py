@@ -48,6 +48,11 @@ STORAGE_SERVICE_URL = app_config['end_points']['storage']['url']
 PROCESSING_SERVICE_URL = app_config['end_points']['processing']['url']
 AUDIT_LOG_SERVICE_URL = app_config['end_points']['audit_log']['url']
 
+SERVICE_COLLECTION = {'receiver': RECEIVER_SERVICE_URL,
+                    'storage': STORAGE_SERVICE_URL,
+                    'processing': PROCESSING_SERVICE_URL,
+                    'audit_log': AUDIT_LOG_SERVICE_URL}
+
 DB_ENGINE = create_engine("sqlite:///%s" % SQLITE_DB_HOST)
 
 Base.metadata.bind = DB_ENGINE
@@ -106,9 +111,11 @@ def get_data():
     # res4 = requests.get(
     #     f'{STORAGE_SERVICE_URL}/userParameters?start_timestamp={start_dt_string}&end_timestamp={end_dt_string}'
     # )
-    res5 = requests.get(
-        f'{PROCESSING_SERVICE_URL}/health'
-    )
+    responses = {}
+    for service, url in SERVICE_COLLECTION.items():
+        responses[service] = requests.get(
+            f'{url}/health'
+        )
     # res6 = requests.get(
     #     f'f{AUDIT_LOG_SERVICE_URL}/audit_log/exerciseData?index=0'
     # )
@@ -125,13 +132,16 @@ def get_data():
     # event_count_res2 = len(res2.json())
     
     # logger.info(f'Amount of events recieved from Storage service: exercise_data: {event_count_res1} user_parameters: {event_count_res2}')
-    if res5.status_code == 200:
-        processing = 'Running'
-        logger.info('processor is reachable')
-    else:
-        processing = 'Unreachable'
-        logger.error('processor is unreachable')
-    return {'processing': processing}
+    status_dict = {}
+    for service, response in responses.items():
+        if response.status_code == 200:
+            status_dict[service] = 'Running'
+            logger.info(f'{service} is reachable')
+        else:
+            status_dict[service] = 'Unreachable'
+            logger.error(f'{service} is unreachable')
+    status_dict['last_update'] = datetime.datetime.now()
+    return status_dict
 
 
 def populate_health():
@@ -139,8 +149,7 @@ def populate_health():
 
     logger.info("Start Periodic Processing")
     health_check_collection = get_data()
-    for health in health_check_collection:
-        health_to_db(health)
+    health_to_db(health_check_collection)
     logger.info("Periodic Processing Has Ended")
     
 
@@ -162,7 +171,7 @@ def health_to_db(health):
         health['storage'],
         health['processing'],
         health['audit_log'],
-        health["last_updated"])
+        health["last_update"])
     session.add(health)
     session.commit()
     session.close()
@@ -202,7 +211,7 @@ def get_default_values():
                         'storage': 'Running',
                         'processing': 'Running',
                         'audit_log': 'Running', 
-                        'last_updated': datetime.datetime(1980, 10, 30, 20, 12, 8, 795698)})
+                        'last_update': datetime.datetime(1980, 10, 30, 20, 12, 8, 795698)})
     return results_list
 
 
@@ -214,7 +223,7 @@ def get_last_updated_from_db():
     last_updated_list = []
     
     for health_check in db_health:
-        last_updated_list.append(health_check['last_updated'])
+        last_updated_list.append(health_check['last_update'])
     
     last_dt = max(dt for dt in last_updated_list if dt < current_dt)
 

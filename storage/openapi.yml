@@ -132,6 +132,18 @@ paths:
                 properties:
                   message:
                     type: string
+
+  /health:
+    get:
+      summary: Get service status
+      operationId: app.get_health_check
+      description: Returns the services status
+      responses:
+        '200':
+          description: Service is Running
+        '400':
+          description: Service encountered a problem
+
 components:
   schemas:
     trackerEvent:

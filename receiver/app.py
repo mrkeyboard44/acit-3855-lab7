@@ -162,7 +162,8 @@ def write_to_json(payload):
         readings.append({"received_timestamp":str(datetime.now()), "request_data":payload})
         json.dump(readings, file, indent=2)
 
-
+def get_health_check():
+    return NoContent, 200
 
 options = {"swagger_ui_config": True}
 app = connexion.FlaskApp(__name__, specification_dir='', options=options)

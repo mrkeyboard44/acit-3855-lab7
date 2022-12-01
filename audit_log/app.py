@@ -6,6 +6,7 @@ import logging.config
 import yaml
 import json
 import connexion
+from connexion import NoContent
 from flask_cors import CORS, cross_origin
 
 if "TARGET_ENV" in os.environ and os.environ["TARGET_ENV"] == "test":
@@ -95,6 +96,9 @@ def get_user_parameters(index):
         logger.error("Could not find user parameters at index %d" % index)
     
     return { "message": "Not Found"}, 404
+
+def get_health_check():
+    return NoContent, 200
 
 app = connexion.FlaskApp(__name__, specification_dir='')
 app.add_api("openapi.yml", strict_validation=True, base_path='/audit_log', validate_responses=True)
