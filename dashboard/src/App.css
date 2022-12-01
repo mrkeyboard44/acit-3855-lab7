@@ -40,3 +40,11 @@ h4 {
 #audit {
   white-space: pre-wrap;
 }
+
+.statusGreen {
+  color: Green;
+}
+
+.statusRed {
+  color: red;
+}
