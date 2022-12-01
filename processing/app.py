@@ -29,7 +29,11 @@ with open(app_conf_file, 'r') as f:
     # KAFKA_HOSTNAME = app_config['events']['hostname']
     SQLITE_DB_HOST = app_config["datastore"]["filename"]
 
+with open(log_conf_file, 'r') as f:
+    log_config = yaml.safe_load(f.read())
+    logging.config.dictConfig(log_config)
 
+logger = logging.getLogger('basicLogger')
 
 
 STORAGE_SERVICE_URL = app_config['eventstore']['url']
@@ -301,11 +305,7 @@ def get_last_updated_from_db():
     return last_dt
 
 
-with open('log_conf.yaml', 'r') as f:
-    log_config = yaml.safe_load(f.read())
-    logging.config.dictConfig(log_config)
 
-logger = logging.getLogger('basicLogger')
 
 app = connexion.FlaskApp(__name__, specification_dir='')
 app.add_api("openapi.yaml", strict_validation=True, validate_responses=True)
