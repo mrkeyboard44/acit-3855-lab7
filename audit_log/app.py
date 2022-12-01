@@ -97,9 +97,10 @@ def get_user_parameters(index):
     return { "message": "Not Found"}, 404
 
 app = connexion.FlaskApp(__name__, specification_dir='/audit_log')
-app.add_api("openapi.yml", strict_validation=True, validate_responses=True)
-CORS(app.app)
-app.app.config['CORS_HEADERS'] = 'Content-Type'
+app.add_api("/audit_log/openapi.yml", strict_validation=True, validate_responses=True)
+if "TARGET_ENV" not in os.environ or os.environ["TARGET_ENV"] != "test":
+    CORS(app.app)
+    app.app.config['CORS_HEADERS'] = 'Content-Type'
 
 if __name__ == "__main__":
     t1 = Thread(target=get_exercise_data)
