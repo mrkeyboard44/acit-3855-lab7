@@ -82,8 +82,8 @@ def report_exercise_data(body):
         except:
             # producer = topic.get_sync_producer()
             # producer = topic.get_producer()
-            producer.stop()
-            producer.start()
+            # producer.stop()
+            # producer.start()
             disconnected = True
             # producer.produce(msg_str.encode('utf-8'))
             logger.error("Couldn't connect to Kafka. Trying again...")
