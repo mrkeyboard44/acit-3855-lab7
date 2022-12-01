@@ -37,13 +37,6 @@ paths:
       responses:
         '200':
           description: Service is Running
-          content:
-            application/json:
-              schema:
-                type: object
-                properties:
-                  message:
-                    type: string
         '400':
           description: Service encountered a problem
 
