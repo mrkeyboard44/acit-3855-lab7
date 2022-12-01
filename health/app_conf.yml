@@ -1,0 +1,14 @@
+version: 1
+datastore:
+  filename: /data/data.sqlite
+scheduler:
+  period_sec: 5
+end_points:
+  receiver:
+    url: http://acit-3855-matt-kafka.westus3.cloudapp.azure.com/receiver
+  storage:
+    url: http://acit-3855-matt-kafka.westus3.cloudapp.azure.com/storage
+  processing:
+    url: http://acit-3855-matt-kafka.westus3.cloudapp.azure.com/processing
+  audit_log:
+    url: http://acit-3855-matt-kafka.westus3.cloudapp.azure.com/audit_log

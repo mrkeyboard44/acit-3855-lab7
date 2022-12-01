@@ -2,14 +2,14 @@ openapi: 3.0.0
 info:
   description: This API provides event stats
   version: "1.0.0"
-  title: Stats API
+  title: Health API
   contact:
     email: mdandar@bcit.ca
 paths:
-  /events/stats:
+  /health:
     get:
       summary: Gets the event stats
-      operationId: app.get_stats
+      operationId: app.get_health_check
       description: Gets general Fitness activity processsed statistics
       responses:
         '200':
@@ -19,7 +19,7 @@ paths:
               schema:
                 type: object
                 items:
-                  $ref: '#/components/schemas/ReadingStats'
+                  $ref: '#/components/schemas/HealthCheck'
         '400':
           description: Invalid request
           content:
@@ -31,35 +31,29 @@ paths:
                     type: string
 components:
   schemas:
-    ReadingStats:
+    HealthCheck:
       required:
-      - recording_id
-      - total_recordings
-      - total_reps
-      - max_heart_rate
-      - min_heart_rate
+      - receiver
+      - storage
+      - processing
+      - audit_log
+      - last_update
       - calories_burned
       - last_updated
       properties:
-        recording_id:
+        receiver:
           type: string
-          example: c21665a2-230c-4ad8-9d32-3d7f0eb0b3b6
-        total_recordings:
-          type: integer
-          example: 10
-        total_reps:
-          type: integer
-          example: 2215
-        max_heart_rate:
-          type: integer
-          example: 190
-        min_heart_rate:
-          type: integer
-          example: 55
-        calories_burned:
-          type: integer
-          example: 205
-        last_updated:
+          example: Running
+        storage:
+          type: string
+          example: Running
+        processing:
+          type: string
+          example: Running
+        audit_log:
+          type: string
+          example: Running
+        last_update:
           type: string
           format: date-time
           example: "2022-09-29 16:35:47.001901"

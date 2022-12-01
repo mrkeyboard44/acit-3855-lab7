@@ -1,0 +1,5 @@
+connexion==2.7.0
+swagger-ui-bundle==0.0.8
+APScheduler==3.9.1
+SQLAlchemy==1.4.44
+flask_cors==3.0.10
