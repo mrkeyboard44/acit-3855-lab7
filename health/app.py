@@ -19,16 +19,21 @@ if "TARGET_ENV" in os.environ and os.environ["TARGET_ENV"] == "test":
     print("In Test Environment")
     app_conf_file = "/config/app_conf.yml"
     log_conf_file = "/config/log_conf.yml"
+    test = True
 
 else:
     print("In Dev Environment")
     app_conf_file = "app_conf.yml"
     log_conf_file = "log_conf.yml"
+    test = False
     
 with open(app_conf_file, 'r') as f:
     app_config = yaml.safe_load(f.read())
     # KAFKA_HOSTNAME = app_config['events']['hostname']
-    SQLITE_DB_HOST = app_config["datastore"]["filename"]
+    if test:
+        SQLITE_DB_HOST = app_config["datastore"]["filename"]["test"]
+    else:
+        SQLITE_DB_HOST = app_config["datastore"]["filename"]["dev"]
 
 with open(log_conf_file, 'r') as f:
     log_config = yaml.safe_load(f.read())
@@ -88,39 +93,39 @@ def get_data():
     end_dt_string = date_to_string(current_time)
     print(current_time)
     #dt_string example = 2022-10-27%2023%3A56%3A17.575232
-    res1 = requests.get(
-        f'f{RECEIVER_SERVICE_URL}/audit_log/exerciseData?index=0'
-    )
-    res2 = requests.get(
-        f'f{RECEIVER_SERVICE_URL}/audit_log/exerciseData?index=0'
-    )
-    res3 = requests.get(
-        f'{STORAGE_SERVICE_URL}/exerciseData?start_timestamp={start_dt_string}&end_timestamp={end_dt_string}'
-    )
-    res4 = requests.get(
-        f'{STORAGE_SERVICE_URL}/userParameters?start_timestamp={start_dt_string}&end_timestamp={end_dt_string}'
-    )
+    # res1 = requests.get(
+    #     f'f{RECEIVER_SERVICE_URL}/audit_log/exerciseData?index=0'
+    # )
+    # res2 = requests.get(
+    #     f'f{RECEIVER_SERVICE_URL}/audit_log/exerciseData?index=0'
+    # )
+    # res3 = requests.get(
+    #     f'{STORAGE_SERVICE_URL}/exerciseData?start_timestamp={start_dt_string}&end_timestamp={end_dt_string}'
+    # )
+    # res4 = requests.get(
+    #     f'{STORAGE_SERVICE_URL}/userParameters?start_timestamp={start_dt_string}&end_timestamp={end_dt_string}'
+    # )
     res5 = requests.get(
-        f'f{PROCESSING_SERVICE_URL}/events/stats'
+        f'{PROCESSING_SERVICE_URL}/healthCheck'
     )
-    res6 = requests.get(
-        f'f{AUDIT_LOG_SERVICE_URL}/audit_log/exerciseData?index=0'
-    )
-    res7 = requests.get(
-        f'f{AUDIT_LOG_SERVICE_URL}/audit_log/userParameters?index=0'
-    )
+    # res6 = requests.get(
+    #     f'f{AUDIT_LOG_SERVICE_URL}/audit_log/exerciseData?index=0'
+    # )
+    # res7 = requests.get(
+    #     f'f{AUDIT_LOG_SERVICE_URL}/audit_log/userParameters?index=0'
+    # )
     
-    if res1.status_code != 200:
-        logger.error(f'Request from Storage -> exercise_data returned error: {res1.status_code}')
-    if res2.status_code != 200:
-        logger.error(f'Request from Storage -> user_parameters returned error: {res2.status_code}')
+    # if res5.status_code != 200:
+    #     logger.error(f'Request from Storage -> exercise_data returned error: {res1.status_code}')
+    # if res2.status_code != 200:
+    #     logger.error(f'Request from Storage -> user_parameters returned error: {res2.status_code}')
     
-    event_count_res1 = len(res1.json())
-    event_count_res2 = len(res2.json())
+    # event_count_res1 = len(res1.json())
+    # event_count_res2 = len(res2.json())
     
-    logger.info(f'Amount of events recieved from Storage service: exercise_data: {event_count_res1} user_parameters: {event_count_res2}')
+    # logger.info(f'Amount of events recieved from Storage service: exercise_data: {event_count_res1} user_parameters: {event_count_res2}')
     
-    return {'exercise_data': res1.json(), 'user_parameters': res2.json()}
+    return {'processing': res5.json()}
 
 
 def populate_health():

@@ -1,6 +1,8 @@
 version: 1
 datastore:
-  filename: /data/data.sqlite
+  filename: 
+    test: /data/data.sqlite
+    dev: data.sqlite 
 scheduler:
   period_sec: 5
 end_points:
