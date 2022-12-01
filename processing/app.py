@@ -38,10 +38,9 @@ logger = logging.getLogger('basicLogger')
 
 
 STORAGE_SERVICE_URL = app_config['eventstore']['url']
-try:
-    DB_ENGINE = create_engine("sqlite:///%s" % SQLITE_DB_HOST)
-except:
-    create_tables_now(SQLITE_DB_HOST)
+
+DB_ENGINE = create_engine("sqlite:///%s" % SQLITE_DB_HOST)
+
 Base.metadata.bind = DB_ENGINE
 DB_SESSION = sessionmaker(bind=DB_ENGINE)
 
@@ -267,7 +266,7 @@ def stats_from_db():
         logger.error('No table found "stats".')
         results_list = get_default_values()
         logger.info('Creating DB...')
-        create_tables_now()
+        create_tables_now(SQLITE_DB_HOST)
         logger.info('Table DB Created!')
 
     session.close()
