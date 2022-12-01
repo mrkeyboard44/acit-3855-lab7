@@ -1,6 +1,6 @@
 import sqlite3
-def create_tables_now():
-        conn = sqlite3.connect('stats.sqlite')
+def create_tables_now(db_name):
+        conn = sqlite3.connect(db_name)
 
         c = conn.cursor()
 

@@ -26,14 +26,17 @@ else:
     
 with open(app_conf_file, 'r') as f:
     app_config = yaml.safe_load(f.read())
-    KAFKA_HOSTNAME = app_config['events']['hostname']
+    # KAFKA_HOSTNAME = app_config['events']['hostname']
+    SQLITE_DB_HOST = app_config["datastore"]["filename"]
 
 
 
 
 STORAGE_SERVICE_URL = app_config['eventstore']['url']
-
-DB_ENGINE = create_engine("sqlite:///%s" % app_config["datastore"]["filename"])
+try:
+    DB_ENGINE = create_engine("sqlite:///%s" % SQLITE_DB_HOST)
+except:
+    create_tables_now(SQLITE_DB_HOST)
 Base.metadata.bind = DB_ENGINE
 DB_SESSION = sessionmaker(bind=DB_ENGINE)
 
