@@ -1,6 +1,7 @@
 from unittest import result
 import os
 import connexion
+from connexion import NoContent
 import yaml
 from sqlalchemy import create_engine
 from stats import Stats
@@ -304,7 +305,8 @@ def get_last_updated_from_db():
 
     return last_dt
 
-
+def get_health_check():
+    return NoContent, 200
 
 
 app = connexion.FlaskApp(__name__, specification_dir='')
