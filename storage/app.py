@@ -162,6 +162,19 @@ def process_messages():
     consumer = topic.get_simple_consumer(consumer_group=b'event_group',
                                         reset_offset_on_start=False,
                                         auto_offset_reset=OffsetType.LATEST)
+    while disconnected:
+        try:
+            consumer.consume()
+            disconnected = False
+            logger.info('Connected to Kafka!')
+        except:
+            consumer = topic.get_simple_consumer()
+            # use either the above method or the following:
+            consumer.stop()
+            consumer.start()
+            disconnected = True
+            logger.error("Couldn't connect to Kafka. Trying again...")
+
     print('consumer', consumer)
     # This is blocking - it will wait for a new message
     for msg in consumer:
